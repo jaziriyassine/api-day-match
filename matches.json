@@ -1,13 +1,14 @@
 {
     "status": "success",
-    "last_updated": "2026-09-07 13:38:42",
+    "timezone": "Tunisia (GMT+1)",
+    "last_updated": "2026-09-07 13:55:53",
     "total_matches": 13,
     "matches": [
         {
             "league": "الدوري المصري",
             "home_team": "القناة",
             "away_team": "طلائع الجيش",
-            "time": "17:00",
+            "time": "15:00",
             "status": "لم تبدأ",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
@@ -16,7 +17,7 @@
             "league": "الدوري المصري",
             "home_team": "الاتحاد السكندري",
             "away_team": "بترول أسيوط",
-            "time": "17:00",
+            "time": "15:00",
             "status": "لم تبدأ",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
@@ -25,7 +26,7 @@
             "league": "الدوري المصري",
             "home_team": "البنك الأهلي",
             "away_team": "غزل المحلة",
-            "time": "20:00",
+            "time": "18:00",
             "status": "لم تبدأ",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
@@ -34,7 +35,7 @@
             "league": "الدوري المصري",
             "home_team": "م. السويس بتروجت",
             "away_team": "المصري",
-            "time": "20:00",
+            "time": "18:00",
             "status": "لم تبدأ",
             "channel": "ON Sport",
             "commentator": "غير محدد"
@@ -43,7 +44,7 @@
             "league": "الدوري الإسباني",
             "home_team": "خيتافي",
             "away_team": "سيلتا فيجو",
-            "time": "20:00",
+            "time": "18:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
@@ -52,7 +53,7 @@
             "league": "الدوري الإسباني",
             "home_team": "إلتشي",
             "away_team": "ريال سوسيداد",
-            "time": "22:30",
+            "time": "20:30",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
@@ -61,7 +62,7 @@
             "league": "الدوري التركي",
             "home_team": "جوزتيبي",
             "away_team": "غازي عنتاب بي.بي.كي",
-            "time": "20:00",
+            "time": "18:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
@@ -70,7 +71,7 @@
             "league": "الدوري التركي",
             "home_team": "ريزه سبور",
             "away_team": "ألانيا سبور",
-            "time": "20:00",
+            "time": "18:00",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
@@ -79,7 +80,7 @@
             "league": "الدوري الإيطالي",
             "home_team": "كالياري",
             "away_team": "ليتشي",
-            "time": "19:30",
+            "time": "17:30",
             "status": "لم تبدأ",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
@@ -88,7 +89,7 @@
             "league": "الدوري الإيطالي",
             "home_team": "أودينيزي",
             "away_team": "لاتسيو",
-            "time": "21:45",
+            "time": "19:45",
             "status": "لم تبدأ",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
@@ -97,7 +98,7 @@
             "league": "الدوري البرتغالي",
             "home_team": "إستوريل برايا",
             "away_team": "أروكا",
-            "time": "22:15",
+            "time": "20:15",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
@@ -106,7 +107,7 @@
             "league": "الدوري السعودي",
             "home_team": "الخليج",
             "away_team": "الرياض",
-            "time": "18:30",
+            "time": "16:30",
             "status": "لم تبدأ",
             "channel": "ثمانية 2",
             "commentator": "غير محدد"
@@ -115,7 +116,7 @@
             "league": "الدوري السعودي",
             "home_team": "الهلال",
             "away_team": "نادي نيوم",
-            "time": "21:00",
+            "time": "19:00",
             "status": "لم تبدأ",
             "channel": "ثمانية 1",
             "commentator": "غير محدد"
