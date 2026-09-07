@@ -3,63 +3,57 @@ import requests
 from datetime import datetime
 
 def fetch_matches():
-    # الحصول على تاريخ اليوم بتنسيق YYYY-MM-DD
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.now().strftime("%Y%m%d")
     
-    # API المباريات التابع لـ Goal.com
-    url = f"https://www.goal.com/api/v7/competitions/matches?startDate={today}&endDate={today}&locale=ar"
+    # API مجاني ومباشر وجاهز لبيانات المباريات اليومية
+    url = f"https://www.fotmob.com/api/matches?date={today}"
     
-    # ترويسات تحاكي متصفحاً حقيقياً وتحدد المنطقة واللغة
     headers = {
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Accept": "application/json, text/plain, */*",
-        "Accept-Language": "ar-TN,ar;q=0.9,en-US;q=0.8,en;q=0.7",
-        "Origin": "https://www.goal.com",
-        "Referer": "https://www.goal.com/ar"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
     }
 
     matches = []
 
     try:
-        response = requests.get(url, headers=headers, timeout=20)
+        response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
         data = response.json()
 
-        # استخراج البيانات الهيكلية للمباريات
-        for comp in data.get("competitions", []):
-            league_name = comp.get("name", "بطولة غير محددة")
-            for match in comp.get("matches", []):
-                home = match.get("homeTeam", {}).get("name", "N/A")
-                away = match.get("awayTeam", {}).get("name", "N/A")
-                match_time = match.get("time", "N/A")
-                status = match.get("status", "N/A")
+        for league in data.get("leagues", []):
+            league_name = league.get("name", "غير معروف")
+            for match in league.get("matches", []):
+                home_team = match.get("home", {}).get("name", "N/A")
+                away_team = match.get("away", {}).get("name", "N/A")
+                
+                # استخراج توقيت المباراة
+                match_time = match.get("status", {}).get("startTimeStr", "N/A")
+                status = match.get("status", {}).get("reason", {}).get("short", "N/A")
 
                 matches.append({
                     "league": league_name,
-                    "home_team": home,
-                    "away_team": away,
+                    "home_team": home_team,
+                    "away_team": away_team,
                     "time": match_time,
                     "status": status
                 })
 
-        output = {
+        result = {
             "status": "success",
-            "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "total_matches": len(matches),
             "matches": matches
         }
 
-    except Exception as err:
-        output = {
+    except Exception as e:
+        result = {
             "status": "error",
-            "message": str(err),
+            "message": str(e),
             "total_matches": 0,
             "matches": []
         }
 
-    # حفظ النتائج في ملف JSON
     with open("matches.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=4)
+        json.dump(result, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     fetch_matches()
