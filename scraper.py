@@ -1,33 +1,34 @@
 import json
-import re
 import requests
 from bs4 import BeautifulSoup
 
 def fetch_matches():
-    url = "https://www.goal.com/ar/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85"
+    # استخدام رابط live-scores لتفادي خطأ 404
+    url = "https://www.goal.com/ar/live-scores"
     
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept-Language": "ar-TN,ar;q=0.9,en-US;q=0.8,en;q=0.7"
     }
+
+    matches = []
 
     try:
         response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
 
-        matches = []
-        
-        # البحث عن كروت المباريات بأكثر من نمط محتمل
-        match_cards = soup.find_all("div", class_=re.compile(r"match-row|match-card|fixture", re.I))
+        # البحث عن العناصر البرمجية للمباريات
+        match_containers = soup.select("div[data-testid='match-row'], div.match-row, article.match-card")
 
-        for card in match_cards:
-            teams = card.find_all(["span", "div"], class_=re.compile(r"team-name|name|title", re.I))
-            time_elem = card.find(["time", "span", "div"], class_=re.compile(r"time|status|date", re.I))
+        for match in match_containers:
+            team_names = match.select("span[data-testid='team-name'], span.team-name, .team-title")
+            time_elem = match.select_one("time, .match-status, .status")
 
-            if len(teams) >= 2:
+            if len(team_names) >= 2:
                 matches.append({
-                    "home_team": teams[0].get_text(strip=True),
-                    "away_team": teams[1].get_text(strip=True),
+                    "home_team": team_names[0].get_text(strip=True),
+                    "away_team": team_names[1].get_text(strip=True),
                     "time": time_elem.get_text(strip=True) if time_elem else "N/A"
                 })
 
