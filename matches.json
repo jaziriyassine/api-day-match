@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-07 14:00:19",
+    "last_updated": "2026-09-07 18:04:31",
     "total_matches": 13,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "القناة",
             "away_team": "طلائع الجيش",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "الاتحاد السكندري",
             "away_team": "بترول أسيوط",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "البنك الأهلي",
             "away_team": "غزل المحلة",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "م. السويس بتروجت",
             "away_team": "المصري",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "خيتافي",
             "away_team": "سيلتا فيجو",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "جوزتيبي",
             "away_team": "غازي عنتاب بي.بي.كي",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "ريزه سبور",
             "away_team": "ألانيا سبور",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "كالياري",
             "away_team": "ليتشي",
             "time": "17:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "الخليج",
             "away_team": "الرياض",
             "time": "16:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "الهلال",
             "away_team": "نادي نيوم",
             "time": "19:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ثمانية 1",
             "commentator": "غير محدد"
         }
