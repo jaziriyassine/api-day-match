@@ -1,7 +1,36 @@
 import json
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
+
+def convert_to_tunisia_time(time_str):
+    """تحويل التوقيت وتعديله ليطابق توقيت تونس المحلي تماماً"""
+    try:
+        clean_time = time_str.strip()
+        
+        # معالجة الصيغة إذا كانت تحتوي على مساءً/صباحاً أو ص/م
+        if "م" in clean_time or "PM" in clean_time.upper():
+            clean_time = clean_time.replace("م", "").replace("PM", "").strip()
+            parts = clean_time.split(":")
+            hour = int(parts[0])
+            if hour < 12:
+                hour += 12
+            match_dt = datetime.strptime(f"{hour}:{parts[1]}", "%H:%M")
+        elif "ص" in clean_time or "AM" in clean_time.upper():
+            clean_time = clean_time.replace("ص", "").replace("AM", "").strip()
+            parts = clean_time.split(":")
+            hour = int(parts[0])
+            if hour == 12:
+                hour = 0
+            match_dt = datetime.strptime(f"{hour}:{parts[1]}", "%H:%M")
+        else:
+            match_dt = datetime.strptime(clean_time, "%H:%M")
+
+        # طرح ساعتين للوصول للتوقيت المحلي في تونس (من 21:00 إلى 19:00)
+        tunisia_dt = match_dt - timedelta(hours=2)
+        return tunisia_dt.strftime("%H:%M")
+    except Exception:
+        return time_str
 
 def fetch_matches():
     base_url = "https://www.yallakora.com"
@@ -26,17 +55,20 @@ def fetch_matches():
             for m in all_matches:
                 team_a = m.find("div", class_="teamA").text.strip() if m.find("div", class_="teamA") else "N/A"
                 team_b = m.find("div", class_="teamB").text.strip() if m.find("div", class_="teamB") else "N/A"
-                match_time = m.find("span", class_="time").text.strip() if m.find("span", class_="time") else "N/A"
+                raw_time = m.find("span", class_="time").text.strip() if m.find("span", class_="time") else "N/A"
                 match_status = m.find("div", class_="matchStatus").text.strip() if m.find("div", class_="matchStatus") else "N/A"
 
-                # استخراج اسم القناة الناقلة إن وجدت في العناصر السريعة
+                # تحويل الوقت المجلوب إلى توقيت تونس الصحيح (19:00)
+                tunisia_time = convert_to_tunisia_time(raw_time) if raw_time != "N/A" else "N/A"
+
+                # القناة الناقلة
                 channel_elem = m.find("div", class_="channel")
                 channel_name = channel_elem.text.strip() if channel_elem and channel_elem.text.strip() else "غير معلنة"
 
-                # افتراض اسم المعلق
+                # اسم المعلق
                 commentator = "غير محدد"
 
-                # محاولة جلب رابط تفاصيل المباراة للحصول على اسم المعلق وقناة البث بدقة
+                # جلب التفاصيل الإضافية (القناة والمعلق)
                 match_link_elem = m.find("a", href=True)
                 if match_link_elem:
                     detail_url = match_link_elem["href"]
@@ -48,22 +80,21 @@ def fetch_matches():
                         if detail_res.status_code == 200:
                             detail_soup = BeautifulSoup(detail_res.content, "html.parser")
                             
-                            # استخراج المعلق والقناة من تفاصيل المباراة
                             channel_det = detail_soup.find("div", class_="channel")
-                            if channel_det:
+                            if channel_det and channel_det.text.strip():
                                 channel_name = channel_det.text.strip()
                                 
                             commentator_elem = detail_soup.find("div", class_="commentator")
-                            if commentator_elem:
+                            if commentator_elem and commentator_elem.text.strip():
                                 commentator = commentator_elem.text.strip()
                     except Exception:
-                        pass # في حال تعذر فتح صفحة التفاصيل يتم الاعتماد على البيانات المتاحة
+                        pass
 
                 matches.append({
                     "league": league_title,
                     "home_team": team_a,
                     "away_team": team_b,
-                    "time": match_time,
+                    "time": tunisia_time,
                     "status": match_status,
                     "channel": channel_name,
                     "commentator": commentator
@@ -71,6 +102,7 @@ def fetch_matches():
 
         output = {
             "status": "success",
+            "timezone": "Tunisia (GMT+1)",
             "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "total_matches": len(matches),
             "matches": matches
