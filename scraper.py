@@ -1,13 +1,11 @@
 import json
 import requests
+from bs4 import BeautifulSoup
 from datetime import datetime
 
 def fetch_matches():
-    today = datetime.now().strftime("%Y%m%d")
-    
-    # API مجاني ومباشر وجاهز لبيانات المباريات اليومية
-    url = f"https://www.fotmob.com/api/matches?date={today}"
-    
+    # استخدام كشط للبيانات الهيكلية من موقع كرة قدم عربي مستقر
+    url = "https://www.yallakora.com/match-center"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
     }
@@ -17,27 +15,30 @@ def fetch_matches():
     try:
         response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
-        data = response.json()
+        soup = BeautifulSoup(response.content, "html.parser")
 
-        for league in data.get("leagues", []):
-            league_name = league.get("name", "غير معروف")
-            for match in league.get("matches", []):
-                home_team = match.get("home", {}).get("name", "N/A")
-                away_team = match.get("away", {}).get("name", "N/A")
-                
-                # استخراج توقيت المباراة
-                match_time = match.get("status", {}).get("startTimeStr", "N/A")
-                status = match.get("status", {}).get("reason", {}).get("short", "N/A")
+        # استخراج البطولات والمباريات من الصفحة
+        championships = soup.find_all("div", class_="matchCard")
+
+        for champ in championships:
+            league_title = champ.find("h2").text.strip() if champ.find("h2") else "بطولة عامة"
+            all_matches = champ.find_all("div", class_="allData")
+
+            for m in all_matches:
+                team_a = m.find("div", class_="teamA").text.strip() if m.find("div", class_="teamA") else "N/A"
+                team_b = m.find("div", class_="teamB").text.strip() if m.find("div", class_="teamB") else "N/A"
+                match_time = m.find("span", class_="time").text.strip() if m.find("span", class_="time") else "N/A"
+                match_status = m.find("div", class_="matchStatus").text.strip() if m.find("div", class_="matchStatus") else "N/A"
 
                 matches.append({
-                    "league": league_name,
-                    "home_team": home_team,
-                    "away_team": away_team,
+                    "league": league_title,
+                    "home_team": team_a,
+                    "away_team": team_b,
                     "time": match_time,
-                    "status": status
+                    "status": match_status
                 })
 
-        result = {
+        output = {
             "status": "success",
             "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "total_matches": len(matches),
@@ -45,7 +46,7 @@ def fetch_matches():
         }
 
     except Exception as e:
-        result = {
+        output = {
             "status": "error",
             "message": str(e),
             "total_matches": 0,
@@ -53,7 +54,7 @@ def fetch_matches():
         }
 
     with open("matches.json", "w", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False, indent=4)
+        json.dump(output, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     fetch_matches()
