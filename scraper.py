@@ -1,53 +1,65 @@
 import json
 import requests
-from bs4 import BeautifulSoup
+from datetime import datetime
 
 def fetch_matches():
-    # استخدام رابط live-scores لتفادي خطأ 404
-    url = "https://www.goal.com/ar/live-scores"
+    # الحصول على تاريخ اليوم بتنسيق YYYY-MM-DD
+    today = datetime.now().strftime("%Y-%m-%d")
     
+    # API المباريات التابع لـ Goal.com
+    url = f"https://www.goal.com/api/v7/competitions/matches?startDate={today}&endDate={today}&locale=ar"
+    
+    # ترويسات تحاكي متصفحاً حقيقياً وتحدد المنطقة واللغة
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Accept-Language": "ar-TN,ar;q=0.9,en-US;q=0.8,en;q=0.7"
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "ar-TN,ar;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Origin": "https://www.goal.com",
+        "Referer": "https://www.goal.com/ar"
     }
 
     matches = []
 
     try:
-        response = requests.get(url, headers=headers, timeout=15)
+        response = requests.get(url, headers=headers, timeout=20)
         response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
+        data = response.json()
 
-        # البحث عن العناصر البرمجية للمباريات
-        match_containers = soup.select("div[data-testid='match-row'], div.match-row, article.match-card")
+        # استخراج البيانات الهيكلية للمباريات
+        for comp in data.get("competitions", []):
+            league_name = comp.get("name", "بطولة غير محددة")
+            for match in comp.get("matches", []):
+                home = match.get("homeTeam", {}).get("name", "N/A")
+                away = match.get("awayTeam", {}).get("name", "N/A")
+                match_time = match.get("time", "N/A")
+                status = match.get("status", "N/A")
 
-        for match in match_containers:
-            team_names = match.select("span[data-testid='team-name'], span.team-name, .team-title")
-            time_elem = match.select_one("time, .match-status, .status")
-
-            if len(team_names) >= 2:
                 matches.append({
-                    "home_team": team_names[0].get_text(strip=True),
-                    "away_team": team_names[1].get_text(strip=True),
-                    "time": time_elem.get_text(strip=True) if time_elem else "N/A"
+                    "league": league_name,
+                    "home_team": home,
+                    "away_team": away,
+                    "time": match_time,
+                    "status": status
                 })
 
-        data = {
+        output = {
             "status": "success",
+            "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "total_matches": len(matches),
             "matches": matches
         }
 
-    except Exception as e:
-        data = {
+    except Exception as err:
+        output = {
             "status": "error",
-            "message": str(e),
+            "message": str(err),
             "total_matches": 0,
             "matches": []
         }
 
+    # حفظ النتائج في ملف JSON
     with open("matches.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+        json.dump(output, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     fetch_matches()
