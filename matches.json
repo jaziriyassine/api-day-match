@@ -1,6 +1,6 @@
 {
     "status": "error",
-    "message": "404 Client Error: Not Found for url: https://www.goal.com/ar/live-scores",
+    "message": "404 Client Error: Not Found for url: https://www.goal.com/api/v7/competitions/matches?startDate=2026-09-07&endDate=2026-09-07&locale=ar",
     "total_matches": 0,
     "matches": []
 }
