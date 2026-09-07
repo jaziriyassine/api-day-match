@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 def fetch_matches():
-    # استخدام كشط للبيانات الهيكلية من موقع كرة قدم عربي مستقر
     url = "https://www.yallakora.com/match-center"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -17,7 +16,6 @@ def fetch_matches():
         response.raise_for_status()
         soup = BeautifulSoup(response.content, "html.parser")
 
-        # استخراج البطولات والمباريات من الصفحة
         championships = soup.find_all("div", class_="matchCard")
 
         for champ in championships:
@@ -30,12 +28,17 @@ def fetch_matches():
                 match_time = m.find("span", class_="time").text.strip() if m.find("span", class_="time") else "N/A"
                 match_status = m.find("div", class_="matchStatus").text.strip() if m.find("div", class_="matchStatus") else "N/A"
 
+                # استخراج اسم القناة الناقلة إن وجدت
+                channel_elem = m.find("div", class_="channel")
+                channel_name = channel_elem.text.strip() if channel_elem and channel_elem.text.strip() else "غير معلنة"
+
                 matches.append({
                     "league": league_title,
                     "home_team": team_a,
                     "away_team": team_b,
                     "time": match_time,
-                    "status": match_status
+                    "status": match_status,
+                    "channel": channel_name
                 })
 
         output = {
