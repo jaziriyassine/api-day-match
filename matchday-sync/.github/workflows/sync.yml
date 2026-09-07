@@ -1,0 +1,21 @@
+name: Sync Match Day
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Sync today's matches
+        env:
+          MATCHDAY_BACKEND_URL: ${{ secrets.MATCHDAY_BACKEND_URL }}
+
+        run: |
+          test -n "$MATCHDAY_BACKEND_URL"
+          curl --fail --silent --show-error \
+            -X POST \
+            "$MATCHDAY_BACKEND_URL/api/sync/today"
