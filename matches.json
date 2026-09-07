@@ -1,6 +1,98 @@
 {
-    "status": "error",
-    "message": "404 Client Error: Not Found for url: https://www.fotmob.com/api/matches?date=20260907",
-    "total_matches": 0,
-    "matches": []
+    "status": "success",
+    "last_updated": "2026-09-07 12:59:51",
+    "total_matches": 13,
+    "matches": [
+        {
+            "league": "الدوري المصري",
+            "home_team": "القناة",
+            "away_team": "طلائع الجيش",
+            "time": "17:00",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري المصري",
+            "home_team": "الاتحاد السكندري",
+            "away_team": "بترول أسيوط",
+            "time": "17:00",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري المصري",
+            "home_team": "البنك الأهلي",
+            "away_team": "غزل المحلة",
+            "time": "20:00",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري المصري",
+            "home_team": "م. السويس بتروجت",
+            "away_team": "المصري",
+            "time": "20:00",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري الإسباني",
+            "home_team": "خيتافي",
+            "away_team": "سيلتا فيجو",
+            "time": "20:00",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري الإسباني",
+            "home_team": "إلتشي",
+            "away_team": "ريال سوسيداد",
+            "time": "22:30",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري التركي",
+            "home_team": "جوزتيبي",
+            "away_team": "غازي عنتاب بي.بي.كي",
+            "time": "20:00",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري التركي",
+            "home_team": "ريزه سبور",
+            "away_team": "ألانيا سبور",
+            "time": "20:00",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري الإيطالي",
+            "home_team": "كالياري",
+            "away_team": "ليتشي",
+            "time": "19:30",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري الإيطالي",
+            "home_team": "أودينيزي",
+            "away_team": "لاتسيو",
+            "time": "21:45",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري البرتغالي",
+            "home_team": "إستوريل برايا",
+            "away_team": "أروكا",
+            "time": "22:15",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري السعودي",
+            "home_team": "الخليج",
+            "away_team": "الرياض",
+            "time": "18:30",
+            "status": "لم تبدأ"
+        },
+        {
+            "league": "الدوري السعودي",
+            "home_team": "الهلال",
+            "away_team": "نادي نيوم",
+            "time": "21:00",
+            "status": "لم تبدأ"
+        }
+    ]
 }
