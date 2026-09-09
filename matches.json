@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-09 11:40:52",
+    "last_updated": "2026-09-09 14:13:32",
     "total_matches": 15,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "بيراميدز",
             "away_team": "الجونة",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "مودرن سبورت",
             "away_team": "وادي دجلة",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
