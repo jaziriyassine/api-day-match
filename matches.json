@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-10 12:40:40",
+    "last_updated": "2026-09-10 16:52:42",
     "total_matches": 17,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "النصر",
             "away_team": "ديروط",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "فاركو",
             "away_team": "بلدية المحلة",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "كهرباء الإسماعيلية",
             "away_team": "الداخلية",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "مسار",
             "away_team": "السكة الحديد",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "نادى دلتا يونايتد",
             "away_team": "حرس الحدود",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "فنربخشة",
             "away_team": "روما",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "إيندهوفن",
             "away_team": "شاختار دونيتسك",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -117,8 +117,8 @@
             "home_team": "يونايتد اف سي",
             "away_team": "شباب الأهلي",
             "time": "14:40",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "انتهت",
+            "channel": "أبوظبي الرياضية - HD 2",
             "commentator": "غير محدد"
         },
         {
@@ -126,8 +126,8 @@
             "home_team": "الجــزيرة",
             "away_team": "النصر الإماراتي",
             "time": "14:40",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "انتهت",
+            "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
         {
@@ -135,8 +135,8 @@
             "home_team": "العين",
             "away_team": "الوصل",
             "time": "17:15",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "الشوط الأول",
+            "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
         {
@@ -144,7 +144,7 @@
             "home_team": "الشمال",
             "away_team": "الوكرة",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "السيلية",
             "away_team": "السد القطري",
             "time": "17:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
