@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-11 12:33:48",
+    "last_updated": "2026-09-11 16:53:01",
     "total_matches": 20,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "الجيش الرواندي",
             "away_team": "إيجلز دو كونغو",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "الترسانة",
             "away_team": "المنصورة",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -72,8 +72,8 @@
             "home_team": "تيم اف سي",
             "away_team": "بروكسي",
             "time": "14:30",
-            "status": "لم تبدأ",
-            "channel": "ON Sport MAX",
+            "status": "انتهت",
+            "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
         {
@@ -81,7 +81,7 @@
             "home_team": "مالية كفر الزيات",
             "away_team": "لافيينا أف سي",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "الانتاج الحربي",
             "away_team": "الإسماعيلي",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "المصرية للاتصالات",
             "away_team": "طنطا‏",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "القادسية",
             "away_team": "الاتفـــــاق",
             "time": "16:25",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "ثمانية 1",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "الفيصلي",
             "away_team": "الاتحاد",
             "time": "16:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
@@ -132,29 +132,20 @@
         },
         {
             "league": "الدوري الإماراتي",
-            "home_team": "حتا",
-            "away_team": "الظفرة",
-            "time": "14:40",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري الإماراتي",
             "home_team": "خورفكان",
             "away_team": "بني ياس",
             "time": "14:40",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "انتهت",
+            "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
         {
             "league": "الدوري الإماراتي",
-            "home_team": "الوحـــدة",
-            "away_team": "الشــارقة",
-            "time": "17:15",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "home_team": "حتا",
+            "away_team": "الظفرة",
+            "time": "14:40",
+            "status": "انتهت",
+            "channel": "أبوظبي الرياضية - HD 2",
             "commentator": "غير محدد"
         },
         {
@@ -162,8 +153,17 @@
             "home_team": "عجمان",
             "away_team": "اتحاد كلباء",
             "time": "17:15",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "الشوط الأول",
+            "channel": "أبوظبي الرياضية - HD 2",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري الإماراتي",
+            "home_team": "الوحـــدة",
+            "away_team": "الشــارقة",
+            "time": "17:15",
+            "status": "الشوط الأول",
+            "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
         {
@@ -171,7 +171,7 @@
             "home_team": "الغرافة",
             "away_team": "نادي لوسيل",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 5",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "الريان",
             "away_team": "الأهلي القطري",
             "time": "17:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "الكأس 6",
             "commentator": "غير محدد"
         }
