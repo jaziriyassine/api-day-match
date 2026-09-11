@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-11 16:53:01",
+    "last_updated": "2026-09-11 19:25:39",
     "total_matches": 20,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "الجيش الرواندي",
             "away_team": "إيجلز دو كونغو",
             "time": "17:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "اشبيلية",
             "away_team": "فالنسيا",
             "time": "20:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "بشكتاش",
             "away_team": "إيرزوروم سبور",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "رين",
             "away_team": "مارسيليا",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "فينيزيا",
             "away_team": "فيورنتينا",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "يونيون برلين",
             "away_team": "شالكه",
             "time": "19:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "القادسية",
             "away_team": "الاتفـــــاق",
             "time": "16:25",
-            "status": "الشوط الثاني",
+            "status": "انتهت",
             "channel": "ثمانية 1",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "الفيصلي",
             "away_team": "الاتحاد",
             "time": "16:45",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "أهلي جدة",
             "away_team": "الحزم",
             "time": "19:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "ثمانية 1",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "عجمان",
             "away_team": "اتحاد كلباء",
             "time": "17:15",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "أبوظبي الرياضية - HD 2",
             "commentator": "غير محدد"
         },
@@ -162,7 +162,7 @@
             "home_team": "الوحـــدة",
             "away_team": "الشــارقة",
             "time": "17:15",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "الريان",
             "away_team": "الأهلي القطري",
             "time": "17:15",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "الكأس 6",
             "commentator": "غير محدد"
         }
