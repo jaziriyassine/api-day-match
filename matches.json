@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-13 10:27:49",
+    "last_updated": "2026-09-13 14:35:52",
     "total_matches": 27,
     "matches": [
         {
@@ -18,7 +18,7 @@
             "home_team": "كوفنتري سيتي",
             "away_team": "برايتون",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "سيلتا فيجو",
             "away_team": "مالاجا",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 5 HD",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "ليفانتي",
             "away_team": "برشلونة",
             "time": "15:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "جنتشلربيرليجي",
             "away_team": "قاسم باشا",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "ليل",
             "away_team": "تروا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "ليتشي",
             "away_team": "مونزا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "لايبزيج",
             "away_team": "هامبورج",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
