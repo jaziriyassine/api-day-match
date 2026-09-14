@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-14 11:41:09",
+    "last_updated": "2026-09-14 17:35:49",
     "total_matches": 17,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "طلائع الجيش",
             "away_team": "سموحة",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "سيراميكا كليوباترا",
             "away_team": "البنك الأهلي",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "غازي عنتاب بي.بي.كي",
             "away_team": "فنربخشة",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 6 HD",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "كومو",
             "away_team": "بارما",
             "time": "17:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "تورينو",
             "away_team": "روما",
             "time": "17:30",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "نيفتشي فرجانة",
             "away_team": "القوة الجوية",
             "time": "14:45",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "شباب الأهلي",
             "away_team": "تراكتور",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "الشمال",
             "away_team": "الاتحاد",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
