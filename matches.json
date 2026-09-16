@@ -1,15 +1,15 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-16 09:02:15",
-    "total_matches": 28,
+    "last_updated": "2026-09-16 14:16:36",
+    "total_matches": 27,
     "matches": [
         {
             "league": "الدوري المصري",
             "home_team": "الجونة",
             "away_team": "م. السويس بتروجت",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "تشاد‎",
             "away_team": "نيجيريا",
             "time": "09:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "رواندا",
             "away_team": "الكونغو الديمقراطية",
             "time": "12:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -189,7 +189,7 @@
             "home_team": "تشونبك هيونداي",
             "away_team": "كاشيوا ريسول",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "تاي بورت",
             "away_team": "فيسيل كوبه",
             "time": "13:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -227,15 +227,6 @@
             "time": "20:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 4 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري البرتغالي",
-            "home_team": "سبورتينج براجا",
-            "away_team": "جل فيسنتي",
-            "time": "20:30",
-            "status": "مؤجل",
-            "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
