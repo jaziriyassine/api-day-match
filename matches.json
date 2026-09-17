@@ -1,8 +1,8 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-16 21:30:57",
-    "total_matches": 20,
+    "last_updated": "2026-09-17 00:02:55",
+    "total_matches": 24,
     "matches": [
         {
             "league": "الدوري المصري",
@@ -41,18 +41,54 @@
             "commentator": "غير محدد"
         },
         {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "الإسماعيلي",
-            "away_team": "حرس الحدود",
-            "time": "14:30",
+            "league": "بطولة أفريقيا للكرة الطائرة للرجال",
+            "home_team": "نيجيريا",
+            "away_team": "الجزائر",
+            "time": "09:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة أفريقيا للكرة الطائرة للرجال",
+            "home_team": "كينيا",
+            "away_team": "غانا",
+            "time": "12:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة أفريقيا للكرة الطائرة للرجال",
+            "home_team": "إفريقيا الوسطى",
+            "away_team": "الكونغو الديمقراطية",
+            "time": "15:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة أفريقيا للكرة الطائرة للرجال",
+            "home_team": "المغرب",
+            "away_team": "مصر",
+            "time": "18:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة أفريقيا للكرة الطائرة للرجال",
+            "home_team": "الكاميرون",
+            "away_team": "رواندا",
+            "time": "21:00",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري القسم الثاني-أ",
-            "home_team": "ديروط",
-            "away_team": "الانتاج الحربي",
+            "home_team": "الإسماعيلي",
+            "away_team": "حرس الحدود",
             "time": "14:30",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
