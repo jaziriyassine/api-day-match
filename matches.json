@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-19 11:19:02",
+    "last_updated": "2026-09-19 14:36:54",
     "total_matches": 35,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "توتنهام هوتسبر",
             "away_team": "أستون فيلا",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "نيوكاسل",
             "away_team": "هال سيتي",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 5 HD",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "برايتون",
             "away_team": "أرسنال",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "إيفرتون",
             "away_team": "إيبسويتش تاون",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "أوساسونا",
             "away_team": "رايو فاييكانو",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "أتلتيك بلباو",
             "away_team": "ألافيس",
             "time": "15:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "ماميلودي صنداونز",
             "away_team": "أهلي جدة",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "‎MBC Action",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "كوجالي سبور",
             "away_team": "غازي عنتاب بي.بي.كي",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "كوروم",
             "away_team": "ألانيا سبور",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "رواندا",
             "away_team": "جامبيا",
             "time": "12:00",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "غانا",
             "away_team": "تشاد‎",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "أودينيزي",
             "away_team": "كالياري",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -216,7 +216,7 @@
             "home_team": "بولونيا",
             "away_team": "تورينو",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -243,7 +243,7 @@
             "home_team": "فيردر بريمن",
             "away_team": "أوجسبورج",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "Shahid",
             "commentator": "غير محدد"
         },
@@ -252,7 +252,7 @@
             "home_team": "مونشنجلادباخ",
             "away_team": "ماينز",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "Shahid",
             "commentator": "غير محدد"
         },
@@ -261,7 +261,7 @@
             "home_team": "آ. فرانكفورت",
             "away_team": "فرايبورج",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "Shahid",
             "commentator": "غير محدد"
         },
@@ -270,7 +270,7 @@
             "home_team": "هامبورج",
             "away_team": "كولن",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "Shahid",
             "commentator": "غير محدد"
         },
@@ -297,7 +297,7 @@
             "home_team": "ناسيونال ماديرا",
             "away_team": "فاماليكاو",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
