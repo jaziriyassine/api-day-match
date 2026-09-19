@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-19 06:20:11",
+    "last_updated": "2026-09-19 11:19:02",
     "total_matches": 35,
     "matches": [
         {
@@ -135,7 +135,7 @@
             "home_team": "رواندا",
             "away_team": "جامبيا",
             "time": "12:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
