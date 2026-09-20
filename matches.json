@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-20 09:56:52",
+    "last_updated": "2026-09-20 13:58:51",
     "total_matches": 34,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "ليدز يونايتد",
             "away_team": "كريستال بالاس",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "بى ان سبورت 5 HD",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "بورنموث",
             "away_team": "ليفربول",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "مانشستر سيتي",
             "away_team": "سندرلاند",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "خيتافي",
             "away_team": "مالاجا",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 9 HD",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "اوكسير",
             "away_team": "بريست",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 6 HD",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "فيورنتينا",
             "away_team": "نابولي",
             "time": "11:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "فروزينوني",
             "away_team": "كومو",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -189,7 +189,7 @@
             "home_team": "بارما",
             "away_team": "جنوى",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -216,7 +216,7 @@
             "home_team": "باير ليفركوزن",
             "away_team": "لايبزيج",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
