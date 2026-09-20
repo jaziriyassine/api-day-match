@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-20 17:22:12",
+    "last_updated": "2026-09-20 19:37:21",
     "total_matches": 34,
     "matches": [
         {
@@ -36,7 +36,7 @@
             "home_team": "فولهام",
             "away_team": "مانشستر يونايتد",
             "time": "16:30",
-            "status": "الشوط الثاني",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "ديبورتيفو لاكورونيا",
             "away_team": "ريال بيتيس",
             "time": "17:30",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "فياريال",
             "away_team": "ليفانتي",
             "time": "17:30",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "فالنسيا",
             "away_team": "ريال سوسيداد",
             "time": "20:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "آميد سبورتيف",
             "away_team": "بشكتاش",
             "time": "18:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "بى ان سبورت 6 HD",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "جوزتيبي",
             "away_team": "ريزه سبور",
             "time": "18:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "الجزائر",
             "away_team": "كينيا",
             "time": "18:00",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -162,7 +162,7 @@
             "home_team": "مارسيليا",
             "away_team": "باريس سان جيرمان",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -189,7 +189,7 @@
             "home_team": "بارما",
             "away_team": "جنوى",
             "time": "14:00",
-            "status": "الشوط الثاني",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "يوفنتوس",
             "away_team": "أتالانتا",
             "time": "17:00",
-            "status": "الشوط الثاني",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "ميلان",
             "away_team": "ليتشي",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -234,7 +234,7 @@
             "home_team": "بادربورن",
             "away_team": "هوفنهايم",
             "time": "18:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -261,7 +261,7 @@
             "home_team": "إستوريل برايا",
             "away_team": "كازا بيا",
             "time": "18:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -270,7 +270,7 @@
             "home_team": "سانتا كلارا",
             "away_team": "سبورتينج براجا",
             "time": "18:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -279,7 +279,7 @@
             "home_team": "بورتو",
             "away_team": "بنفيكا",
             "time": "20:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
