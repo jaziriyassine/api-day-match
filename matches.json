@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-21 10:56:44",
+    "last_updated": "2026-09-21 16:49:13",
     "total_matches": 4,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "الكاميرون",
             "away_team": "غانا",
             "time": "12:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "مصر",
             "away_team": "الجزائر",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
