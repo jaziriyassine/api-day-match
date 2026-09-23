@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-23 07:17:08",
+    "last_updated": "2026-09-23 12:53:09",
     "total_matches": 6,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "رواندا",
             "away_team": "نيجيريا",
             "time": "12:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
