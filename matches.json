@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-23 12:53:09",
+    "last_updated": "2026-09-23 17:40:55",
     "total_matches": 6,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "رواندا",
             "away_team": "نيجيريا",
             "time": "12:00",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "غانا",
             "away_team": "مصر",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "تونس‎",
             "away_team": "المغرب",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "العراق",
             "away_team": "عمان",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 1",
             "commentator": "غير محدد"
         },
