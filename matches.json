@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-24 13:40:59",
+    "last_updated": "2026-09-24 18:08:16",
     "total_matches": 28,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "ناميبيا",
             "away_team": "الكونغو برازافيل",
             "time": "14:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "الكونغو الديمقراطية",
             "away_team": "غينيا الاستوائية",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "ليبيا",
             "away_team": "بوتسوانا",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "موريتانيا",
             "away_team": "أفريقيا الوسطى",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "اندورا",
             "away_team": "مالطة",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "سيدني الاسترالي",
             "away_team": "فيزبريم",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "لوس أنجلوس",
             "away_team": "الزمالك",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -189,7 +189,7 @@
             "home_team": "الإمارات",
             "away_team": "اليمن",
             "time": "16:55",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "الكأس 1",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "قطر",
             "away_team": "البـــحرين",
             "time": "19:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "الكأس 1",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "النصر",
             "away_team": "السكة الحديد",
             "time": "14:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -216,7 +216,7 @@
             "home_team": "تيم اف سي",
             "away_team": "الداخلية",
             "time": "14:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -225,7 +225,7 @@
             "home_team": "مالية كفر الزيات",
             "away_team": "المنصورة",
             "time": "14:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -234,7 +234,7 @@
             "home_team": "مسار",
             "away_team": "بروكسي",
             "time": "14:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
@@ -243,7 +243,7 @@
             "home_team": "كهرباء الإسماعيلية",
             "away_team": "فاركو",
             "time": "14:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
