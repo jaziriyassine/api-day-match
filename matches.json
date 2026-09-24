@@ -1,121 +1,157 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-24 18:08:16",
-    "total_matches": 28,
+    "last_updated": "2026-09-24 21:39:54",
+    "total_matches": 34,
     "matches": [
         {
             "league": "تصفيات أمم أفريقيا",
-            "home_team": "ناميبيا",
-            "away_team": "الكونغو برازافيل",
+            "home_team": "السودان",
+            "away_team": "إثيوبيا",
             "time": "14:00",
-            "status": "انتهت",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "تصفيات أمم أفريقيا",
-            "home_team": "الكونغو الديمقراطية",
-            "away_team": "غينيا الاستوائية",
-            "time": "17:00",
-            "status": "انتهت",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "تصفيات أمم أفريقيا",
-            "home_team": "ليبيا",
-            "away_team": "بوتسوانا",
-            "time": "17:00",
-            "status": "الشوط الثاني",
-            "channel": "بى ان سبورت 1HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "تصفيات أمم أفريقيا",
-            "home_team": "موريتانيا",
-            "away_team": "أفريقيا الوسطى",
-            "time": "17:00",
-            "status": "انتهت",
-            "channel": "بى ان سبورت 2 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "تصفيات أمم أفريقيا",
-            "home_team": "الكاميرون",
-            "away_team": "جزر القمر",
-            "time": "20:00",
-            "status": "لم تبدأ",
-            "channel": "بى ان سبورت 8 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "تصفيات أمم أفريقيا",
-            "home_team": "كوت ديفوار",
-            "away_team": "غانا",
-            "time": "20:00",
-            "status": "لم تبدأ",
-            "channel": "بى ان سبورت 7 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "تصفيات أمم أفريقيا",
-            "home_team": "سيراليون",
-            "away_team": "زيمبابوي",
-            "time": "20:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "تصفيات أمم أفريقيا",
-            "home_team": "تونس",
-            "away_team": "أوغندا",
-            "time": "20:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
         {
-            "league": "دوري الأمم الأوروبية",
-            "home_team": "اندورا",
-            "away_team": "مالطة",
-            "time": "17:00",
-            "status": "انتهت",
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "تنزانيا",
+            "away_team": "غينيا بيساو",
+            "time": "14:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "موزمبيق",
+            "away_team": "السنغال",
+            "time": "14:00",
+            "status": "لم تبدأ",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
         {
-            "league": "دوري الأمم الأوروبية",
-            "home_team": "هولندا",
-            "away_team": "ألمانيا",
-            "time": "19:45",
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "النيجر",
+            "away_team": "ليسوتو",
+            "time": "16:00",
             "status": "لم تبدأ",
-            "channel": "بى ان سبورت 2 HD",
+            "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
-            "league": "دوري الأمم الأوروبية",
-            "home_team": "النرويج",
-            "away_team": "الدنمارك",
-            "time": "19:45",
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "جامبيا",
+            "away_team": "الصومال",
+            "time": "17:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "مالاوي",
+            "away_team": "جنوب السودان",
+            "time": "17:00",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت اكسترا 3",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "نيجيريا",
+            "away_team": "مدغشقر",
+            "time": "17:00",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت 3 HD",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "رواندا",
+            "away_team": "ليبيريا",
+            "time": "17:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "توجـــو",
+            "away_team": "بوروندي",
+            "time": "17:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "الجزائر",
+            "away_team": "زامبيا",
+            "time": "20:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
         {
-            "league": "دوري الأمم الأوروبية",
-            "home_team": "البرتغال",
-            "away_team": "ويلز",
-            "time": "19:45",
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "بوركينا فاسو",
+            "away_team": "بنين",
+            "time": "20:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "مالي",
+            "away_team": "كاب فيردي",
+            "time": "20:00",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت اكسترا 1",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "المغرب",
+            "away_team": "الجابون",
+            "time": "20:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
         {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "مصر",
+            "away_team": "أنجـــــولا",
+            "time": "20:00",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت 1HD",
+            "commentator": "غير محدد"
+        },
+        {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "صربيا",
-            "away_team": "اليونان",
+            "home_team": "جورجيا",
+            "away_team": "إيرلندا الشمالية",
+            "time": "17:00",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت 2 HD",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "أرمينيا",
+            "away_team": "لاتفيا",
+            "time": "17:00",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت 6 HD",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "ايطاليا",
+            "away_team": "بلجيكا",
             "time": "19:45",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 6 HD",
@@ -123,135 +159,153 @@
         },
         {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "النمسا",
-            "away_team": "الكيان الصهيوني",
+            "home_team": "تركيا",
+            "away_team": "فرنسا",
             "time": "19:45",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "كوسوفو",
-            "away_team": "أيرلندا",
+            "home_team": "المجر",
+            "away_team": "أوكرانيا",
             "time": "19:45",
             "status": "لم تبدأ",
-            "channel": "بى ان سبورت 5 HD",
+            "channel": "بى ان سبورت اكسترا 2",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "ليشتنشتاين",
-            "away_team": "ليتوانيا",
+            "home_team": "بولندا",
+            "away_team": "البوسنة والهرسك",
             "time": "19:45",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "بى ان سبورت 8 HD",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "السويد",
+            "away_team": "رومانيا",
+            "time": "19:45",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت انجليش 2",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "الجبل الأسود",
+            "away_team": "قبرص",
+            "time": "19:45",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت اكسترا 3",
             "commentator": "غير محدد"
         },
         {
             "league": "بطولة أفريقيا للكرة الطائرة للرجال",
-            "home_team": "نيجيريا",
-            "away_team": "غانا",
+            "home_team": "المغرب",
+            "away_team": "الجزائر",
+            "time": "15:00",
+            "status": "لم تبدأ",
+            "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة أفريقيا للكرة الطائرة للرجال",
+            "home_team": "تونس‎",
+            "away_team": "الكاميرون",
             "time": "18:00",
             "status": "لم تبدأ",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة أفريقيا للكرة الطائرة للرجال",
-            "home_team": "رواندا",
-            "away_team": "مصر",
-            "time": "21:00",
-            "status": "لم تبدأ",
-            "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة العالم للأندية لكرة اليد",
-            "home_team": "سيدني الاسترالي",
-            "away_team": "فيزبريم",
-            "time": "15:30",
-            "status": "انتهت",
-            "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
         {
             "league": "بطولة العالم للأندية لكرة اليد",
             "home_team": "لوس أنجلوس",
+            "away_team": "سيدني الاسترالي",
+            "time": "09:00",
+            "status": "لم تبدأ",
+            "channel": "ON Sport",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة العالم للأندية لكرة اليد",
+            "home_team": "بينهيروس",
+            "away_team": "برشلونة",
+            "time": "11:15",
+            "status": "لم تبدأ",
+            "channel": "ON Sport",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة العالم للأندية لكرة اليد",
+            "home_team": "منتدى درب سلطان",
             "away_team": "الزمالك",
-            "time": "18:00",
-            "status": "مباشر",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "ON Sport",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة العالم للأندية لكرة اليد",
+            "home_team": "الأهلي",
+            "away_team": "فيزبريم",
+            "time": "16:30",
+            "status": "لم تبدأ",
+            "channel": "ON Sport",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة العالم للأندية لكرة اليد",
+            "home_team": "برقان الرياضي",
+            "away_team": "فوكس برلين",
+            "time": "18:45",
+            "status": "لم تبدأ",
+            "channel": "ON Sport",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "الانتاج الحربي",
+            "away_team": "طنطا‏",
+            "time": "14:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "حرس الحدود",
+            "away_team": "ديروط",
+            "time": "14:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "الترسانة",
+            "away_team": "بلدية المحلة",
+            "time": "14:30",
+            "status": "لم تبدأ",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
         {
-            "league": "خليجي 27",
-            "home_team": "الإمارات",
-            "away_team": "اليمن",
-            "time": "16:55",
-            "status": "الشوط الثاني",
-            "channel": "الكأس 1",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "خليجي 27",
-            "home_team": "قطر",
-            "away_team": "البـــحرين",
-            "time": "19:00",
-            "status": "الشوط الأول",
-            "channel": "الكأس 1",
-            "commentator": "غير محدد"
-        },
-        {
             "league": "دوري القسم الثاني-أ",
-            "home_team": "النصر",
-            "away_team": "السكة الحديد",
+            "home_team": "المصرية للاتصالات",
+            "away_team": "لافيينا أف سي",
             "time": "14:30",
-            "status": "انتهت",
+            "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري القسم الثاني-أ",
-            "home_team": "تيم اف سي",
-            "away_team": "الداخلية",
+            "home_team": "نادى دلتا يونايتد",
+            "away_team": "الإسماعيلي",
             "time": "14:30",
-            "status": "انتهت",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "مالية كفر الزيات",
-            "away_team": "المنصورة",
-            "time": "14:30",
-            "status": "انتهت",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "مسار",
-            "away_team": "بروكسي",
-            "time": "14:30",
-            "status": "انتهت",
-            "channel": "ON Sport PLUS",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "كهرباء الإسماعيلية",
-            "away_team": "فاركو",
-            "time": "14:30",
-            "status": "انتهت",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري المغربي",
-            "home_team": "أمل تزنيت",
-            "away_team": "اتحاد طنجة",
-            "time": "21:00",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
