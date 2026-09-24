@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-24 08:19:34",
+    "last_updated": "2026-09-24 13:40:59",
     "total_matches": 28,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "ناميبيا",
             "away_team": "الكونغو برازافيل",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "النصر",
             "away_team": "السكة الحديد",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -216,7 +216,7 @@
             "home_team": "تيم اف سي",
             "away_team": "الداخلية",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -225,7 +225,7 @@
             "home_team": "مالية كفر الزيات",
             "away_team": "المنصورة",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -234,7 +234,7 @@
             "home_team": "مسار",
             "away_team": "بروكسي",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
@@ -243,7 +243,7 @@
             "home_team": "كهرباء الإسماعيلية",
             "away_team": "فاركو",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
