@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-25 15:24:08",
+    "last_updated": "2026-09-25 19:24:24",
     "total_matches": 34,
     "matches": [
         {
@@ -36,7 +36,7 @@
             "home_team": "النيجر",
             "away_team": "ليسوتو",
             "time": "16:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "جامبيا",
             "away_team": "الصومال",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "مالاوي",
             "away_team": "جنوب السودان",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت اكسترا 3",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "نيجيريا",
             "away_team": "مدغشقر",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بي إن سبورت فرنسا 2",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "رواندا",
             "away_team": "ليبيريا",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -81,8 +81,17 @@
             "home_team": "توجـــو",
             "away_team": "بوروندي",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "مصر",
+            "away_team": "أنجـــــولا",
+            "time": "20:00",
+            "status": "الشوط الأول",
+            "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
         {
@@ -108,7 +117,7 @@
             "home_team": "مالي",
             "away_team": "كاب فيردي",
             "time": "20:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت اكسترا 1",
             "commentator": "غير محدد"
         },
@@ -122,20 +131,11 @@
             "commentator": "غير محدد"
         },
         {
-            "league": "تصفيات أمم أفريقيا",
-            "home_team": "مصر",
-            "away_team": "أنجـــــولا",
-            "time": "20:00",
-            "status": "لم تبدأ",
-            "channel": "بى ان سبورت 1HD",
-            "commentator": "غير محدد"
-        },
-        {
             "league": "دوري الأمم الأوروبية",
             "home_team": "جورجيا",
             "away_team": "إيرلندا الشمالية",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "أرمينيا",
             "away_team": "لاتفيا",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 6 HD",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "ايطاليا",
             "away_team": "بلجيكا",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 6 HD",
             "commentator": "غير محدد"
         },
@@ -162,7 +162,7 @@
             "home_team": "تركيا",
             "away_team": "فرنسا",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "المجر",
             "away_team": "أوكرانيا",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت اكسترا 2",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "بولندا",
             "away_team": "البوسنة والهرسك",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 8 HD",
             "commentator": "غير محدد"
         },
@@ -189,7 +189,7 @@
             "home_team": "السويد",
             "away_team": "رومانيا",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت انجليش 2",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "الجبل الأسود",
             "away_team": "قبرص",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت اكسترا 3",
             "commentator": "غير محدد"
         },
@@ -216,7 +216,7 @@
             "home_team": "تونس‎",
             "away_team": "الكاميرون",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -252,7 +252,7 @@
             "home_team": "الأهلي",
             "away_team": "فيزبريم",
             "time": "16:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -261,7 +261,7 @@
             "home_team": "برقان الرياضي",
             "away_team": "فوكس برلين",
             "time": "18:45",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -270,7 +270,7 @@
             "home_team": "الانتاج الحربي",
             "away_team": "طنطا‏",
             "time": "14:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -279,7 +279,7 @@
             "home_team": "حرس الحدود",
             "away_team": "ديروط",
             "time": "14:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -288,7 +288,7 @@
             "home_team": "الترسانة",
             "away_team": "بلدية المحلة",
             "time": "14:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -297,7 +297,7 @@
             "home_team": "المصرية للاتصالات",
             "away_team": "لافيينا أف سي",
             "time": "14:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -306,7 +306,7 @@
             "home_team": "نادى دلتا يونايتد",
             "away_team": "الإسماعيلي",
             "time": "14:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
