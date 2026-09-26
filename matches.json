@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-26 11:38:58",
+    "last_updated": "2026-09-26 15:41:39",
     "total_matches": 17,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "كينيا",
             "away_team": "إريتريا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "جنوب أفريقيا",
             "away_team": "غينيا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت اكسترا 1",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "سلوفينيا",
             "away_team": "إسكتلندا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
