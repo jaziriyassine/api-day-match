@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-27 11:19:34",
+    "last_updated": "2026-09-27 15:44:19",
     "total_matches": 19,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "ليتوانيا",
             "away_team": "إذربيجان",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "سيدني الاسترالي",
             "away_team": "لوس أنجلوس",
             "time": "09:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "منتدى درب سلطان",
             "away_team": "بينهيروس",
             "time": "11:15",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "برشلونة",
             "away_team": "الزمالك",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "فوكس برلين",
             "away_team": "فيزبريم",
             "time": "15:45",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "الزمالك",
             "away_team": "مودرن سبورت",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
