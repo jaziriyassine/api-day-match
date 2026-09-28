@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-28 07:16:37",
+    "last_updated": "2026-09-28 15:44:12",
     "total_matches": 13,
     "matches": [
         {
@@ -117,7 +117,7 @@
             "home_team": "الأهلي",
             "away_team": "الاتحاد المصراتي",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
