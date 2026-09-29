@@ -1,15 +1,15 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-29 07:18:40",
+    "last_updated": "2026-09-29 14:12:40",
     "total_matches": 36,
     "matches": [
         {
             "league": "تصفيات أمم أفريقيا",
             "home_team": "جزر القمر",
             "away_team": "ناميبيا",
-            "time": "12:00",
-            "status": "لم تبدأ",
+            "time": "13:00",
+            "status": "انتهت",
             "channel": "بى ان سبورت 9 HD",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "جنوب السودان",
             "away_team": "مصر",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "بوروندي",
             "away_team": "الجزائر",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "إثيوبيا",
             "away_team": "السنغال",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 5 HD",
             "commentator": "غير محدد"
         },
@@ -45,17 +45,8 @@
             "home_team": "ليسوتو",
             "away_team": "المغرب",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 3 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "تصفيات أمم أفريقيا",
-            "home_team": "مدغشقر",
-            "away_team": "تنزانيا",
-            "time": "14:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
@@ -63,8 +54,17 @@
             "home_team": "موزمبيق",
             "away_team": "السودان",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 4 HD",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "مدغشقر",
+            "away_team": "تنزانيا",
+            "time": "15:00",
+            "status": "الشوط الأول",
+            "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
@@ -252,7 +252,7 @@
             "home_team": "الزمالك",
             "away_team": "بينهيروس",
             "time": "11:15",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -261,7 +261,7 @@
             "home_team": "برشلونة",
             "away_team": "منتدى درب سلطان",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -306,7 +306,7 @@
             "home_team": "أستراليا",
             "away_team": "البرازيل",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
