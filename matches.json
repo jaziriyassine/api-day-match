@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-09-30 15:34:45",
+    "last_updated": "2026-09-30 20:30:15",
     "total_matches": 3,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "إريتريا",
             "away_team": "جنوب أفريقيا",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "البـــحرين",
             "away_team": "اليمن",
             "time": "18:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 2",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "الإمارات",
             "away_team": "قطر",
             "time": "18:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 1",
             "commentator": "غير محدد"
         }
