@@ -1,8 +1,8 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-02 08:48:39",
-    "total_matches": 20,
+    "last_updated": "2026-10-02 15:19:29",
+    "total_matches": 22,
     "matches": [
         {
             "league": "دوري الأمم الأوروبية",
@@ -99,7 +99,7 @@
             "home_team": "ديروط",
             "away_team": "الإسماعيلي",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "طنطا‏",
             "away_team": "حرس الحدود",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "بروكسي",
             "away_team": "المصرية للاتصالات",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "الداخلية",
             "away_team": "مالية كفر الزيات",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "بلدية المحلة",
             "away_team": "تيم اف سي",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "كهرباء الإسماعيلية",
             "away_team": "نادى دلتا يونايتد",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -172,6 +172,24 @@
             "away_team": "المغرب التطواني",
             "time": "21:00",
             "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "مباريات ودية - منتخبات",
+            "home_team": "الصين",
+            "away_team": "فلسطين",
+            "time": "12:35",
+            "status": "انتهت",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "مباريات ودية - منتخبات",
+            "home_team": "الكونغو الديمقراطية",
+            "away_team": "أوغندا",
+            "time": "14:00",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
