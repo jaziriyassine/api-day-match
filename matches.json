@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-03 09:38:23",
+    "last_updated": "2026-10-03 14:32:57",
     "total_matches": 17,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "فنلندا",
             "away_team": "ألبانيا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "الهند",
             "away_team": "البرازيل",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
