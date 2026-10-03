@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-03 14:32:57",
+    "last_updated": "2026-10-03 18:30:45",
     "total_matches": 17,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "فنلندا",
             "away_team": "ألبانيا",
             "time": "14:00",
-            "status": "الشوط الثاني",
+            "status": "انتهت",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "إستونيا",
             "away_team": "لوكسمبرج",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "أيسلندا",
             "away_team": "بلغاريا",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "كرواتيا",
             "away_team": "إنجلترا",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "بيلاروسيا",
             "away_team": "سان مارينو",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "السعودية",
             "away_team": "قطر",
             "time": "16:55",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "الكأس 1",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "حسنية اغادير",
             "away_team": "المغرب الفاسي",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "الدفاع الجديدي",
             "away_team": "الوداد البيضاوي",
             "time": "19:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "النادي المكناسي",
             "away_team": "الكوكب المراكشي",
             "time": "19:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "الهند",
             "away_team": "البرازيل",
             "time": "15:00",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "كندا",
             "away_team": "بيرو",
             "time": "19:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
