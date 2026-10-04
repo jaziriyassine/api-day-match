@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-04 06:09:55",
+    "last_updated": "2026-10-04 12:42:15",
     "total_matches": 13,
     "matches": [
         {
@@ -81,7 +81,7 @@
             "home_team": "الأرجنتين",
             "away_team": "بوركينا فاسو",
             "time": "01:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -116,7 +116,7 @@
             "league": "مباريات ودية -أندية",
             "home_team": "الزمالك",
             "away_team": "نادي الشرقية إنبي",
-            "time": "16:00",
+            "time": "14:30",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
