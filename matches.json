@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-04 12:42:15",
+    "last_updated": "2026-10-04 17:15:55",
     "total_matches": 13,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "إذربيجان",
             "away_team": "ليتوانيا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "مالطة",
             "away_team": "اندورا",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "كوسوفو",
             "away_team": "النمسا",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "جزر القمر",
             "away_team": "السنغال",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -116,8 +116,8 @@
             "league": "مباريات ودية -أندية",
             "home_team": "الزمالك",
             "away_team": "نادي الشرقية إنبي",
-            "time": "14:30",
-            "status": "لم تبدأ",
+            "time": "15:00",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
