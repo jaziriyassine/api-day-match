@@ -1,15 +1,15 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-05 09:25:23",
-    "total_matches": 13,
+    "last_updated": "2026-10-05 18:43:01",
+    "total_matches": 9,
     "matches": [
         {
             "league": "دوري الأمم الأوروبية",
             "home_team": "قبرص",
             "away_team": "لاتفيا",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -77,47 +77,11 @@
             "commentator": "غير محدد"
         },
         {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "فاب الكاميروني",
-            "away_team": "بترو أتليتيكو",
-            "time": "12:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "الزمالك",
-            "away_team": "نادي الجيش الرواندي",
-            "time": "12:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "الأهلي",
-            "away_team": "إنتر كلوب",
-            "time": "14:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "كينشاسا",
-            "away_team": "بريميرو",
-            "time": "14:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
             "league": "مباريات ودية -أندية",
             "home_team": "بيراميدز",
             "away_team": "ليفيلز",
-            "time": "17:00",
-            "status": "لم تبدأ",
+            "time": "05:30",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
