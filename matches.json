@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-06 07:09:01",
+    "last_updated": "2026-10-06 14:21:02",
     "total_matches": 19,
     "matches": [
         {
@@ -18,7 +18,7 @@
             "home_team": "كازاخستان",
             "away_team": "جزر فاروه",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "كينشاسا",
             "away_team": "ميشال سبور",
             "time": "12:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "الأهلي",
             "away_team": "إنتر كلوب",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "بترو أتليتيكو",
             "away_team": "الجيش الرواندي",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
