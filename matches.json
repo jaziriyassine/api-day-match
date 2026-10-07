@@ -1,97 +1,187 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-07 17:53:41",
-    "total_matches": 10,
+    "last_updated": "2026-10-07 22:37:52",
+    "total_matches": 20,
     "matches": [
         {
             "league": "كأس رابطة الأندية",
-            "home_team": "بيراميدز",
-            "away_team": "القناة",
+            "home_team": "الاتحاد السكندري",
+            "away_team": "وادي دجلة",
             "time": "15:00",
-            "status": "انتهت",
+            "status": "لم تبدأ",
+            "channel": "ON Sport MAX",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس رابطة الأندية",
+            "home_team": "المقاولون العرب",
+            "away_team": "الجونة",
+            "time": "15:00",
+            "status": "لم تبدأ",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
         {
             "league": "كأس رابطة الأندية",
-            "home_team": "بترول أسيوط",
-            "away_team": "الأهلي",
-            "time": "15:00",
-            "status": "انتهت",
-            "channel": "ON Sport MAX",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس رابطة الأندية",
-            "home_team": "الزمالك",
-            "away_team": "زد",
+            "home_team": "غزل المحلة",
+            "away_team": "أبو قير للاسمدة",
             "time": "18:00",
-            "status": "الشوط الأول",
+            "status": "لم تبدأ",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
         {
             "league": "كأس رابطة الأندية",
-            "home_team": "سيراميكا كليوباترا",
-            "away_team": "المصري",
+            "home_team": "مودرن سبورت",
+            "away_team": "البنك الأهلي",
             "time": "18:00",
-            "status": "الشوط الأول",
+            "status": "لم تبدأ",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
         {
             "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "كينشاسا",
-            "away_team": "ميكيلّي 70",
-            "time": "12:00",
-            "status": "انتهت",
+            "home_team": "فلاورز",
+            "away_team": "الجيش الرواندي",
+            "time": "14:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة أفريقيا للأندية لكرة اليد",
+            "home_team": "ميكيلّي 70",
+            "away_team": "الزمالك",
+            "time": "14:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "بطولة أفريقيا للأندية لكرة اليد",
+            "home_team": "بترو أتليتيكو",
+            "away_team": "الأهلي",
+            "time": "16:00",
+            "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
             "league": "بطولة أفريقيا للأندية لكرة اليد",
             "home_team": "رينيسانس",
-            "away_team": "الجيش الرواندي",
-            "time": "14:00",
-            "status": "انتهت",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "الأهلي",
-            "away_team": "فلاورز",
+            "away_team": "إنتر كلوب",
             "time": "16:00",
-            "status": "انتهت",
-            "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "إنتر كلوب",
-            "away_team": "بترو أتليتيكو",
-            "time": "18:00",
-            "status": "مباشر",
+            "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
             "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "ميشال سبور",
-            "away_team": "بريميرو دي أوجوستو",
+            "home_team": "بريميرو دي أوجوستو",
+            "away_team": "كينشاسا",
             "time": "18:00",
-            "status": "مباشر",
+            "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
-            "league": "مباريات ودية - منتخبات",
-            "home_team": "الأرجنتين",
-            "away_team": "بنين",
-            "time": "00:00",
-            "status": "انتهت",
-            "channel": "شاشا",
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "النصر",
+            "away_team": "بروكسي",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "حرس الحدود",
+            "away_team": "السكة الحديد",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "الترسانة",
+            "away_team": "كهرباء الإسماعيلية",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "مسار",
+            "away_team": "الداخلية",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "نادى دلتا يونايتد",
+            "away_team": "ديروط",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري نجوم قطر",
+            "home_team": "الشمال",
+            "away_team": "الدحيل",
+            "time": "15:45",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري نجوم قطر",
+            "home_team": "الوكرة",
+            "away_team": "الغرافة",
+            "time": "18:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري المغربي",
+            "home_team": "الاتحاد التوركي",
+            "away_team": "نهضة بركان",
+            "time": "17:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري المغربي",
+            "home_team": "الجيش الملكي",
+            "away_team": "وداد تمارة",
+            "time": "19:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري المغربي",
+            "home_team": "نهضة الزمامرة",
+            "away_team": "حسنية اغادير",
+            "time": "19:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري المغربي",
+            "home_team": "المغرب الفاسي",
+            "away_team": "الرجاء البيضاوي",
+            "time": "21:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
     ]
