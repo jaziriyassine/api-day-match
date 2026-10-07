@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-07 11:13:59",
+    "last_updated": "2026-10-07 17:53:41",
     "total_matches": 10,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "بيراميدز",
             "away_team": "القناة",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "بترول أسيوط",
             "away_team": "الأهلي",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "الزمالك",
             "away_team": "زد",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "سيراميكا كليوباترا",
             "away_team": "المصري",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "كينشاسا",
             "away_team": "ميكيلّي 70",
             "time": "12:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "رينيسانس",
             "away_team": "الجيش الرواندي",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -63,8 +63,8 @@
             "home_team": "الأهلي",
             "away_team": "فلاورز",
             "time": "16:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "انتهت",
+            "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
             "commentator": "غير محدد"
         },
         {
@@ -72,7 +72,7 @@
             "home_team": "إنتر كلوب",
             "away_team": "بترو أتليتيكو",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "ميشال سبور",
             "away_team": "بريميرو دي أوجوستو",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
