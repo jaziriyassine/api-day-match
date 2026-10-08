@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-08 09:20:26",
+    "last_updated": "2026-10-08 16:45:20",
     "total_matches": 20,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "الاتحاد السكندري",
             "away_team": "وادي دجلة",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "المقاولون العرب",
             "away_team": "الجونة",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "فلاورز",
             "away_team": "الجيش الرواندي",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "ميكيلّي 70",
             "away_team": "الزمالك",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "بترو أتليتيكو",
             "away_team": "الأهلي",
             "time": "16:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "رينيسانس",
             "away_team": "إنتر كلوب",
             "time": "16:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "النصر",
             "away_team": "بروكسي",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "حرس الحدود",
             "away_team": "السكة الحديد",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "الترسانة",
             "away_team": "كهرباء الإسماعيلية",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "مسار",
             "away_team": "الداخلية",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "نادى دلتا يونايتد",
             "away_team": "ديروط",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "الشمال",
             "away_team": "الدحيل",
             "time": "15:45",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "الاتحاد التوركي",
             "away_team": "نهضة بركان",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
