@@ -1,148 +1,148 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-08 16:45:20",
-    "total_matches": 20,
+    "last_updated": "2026-10-08 21:47:23",
+    "total_matches": 17,
     "matches": [
         {
-            "league": "كأس رابطة الأندية",
-            "home_team": "الاتحاد السكندري",
-            "away_team": "وادي دجلة",
-            "time": "15:00",
-            "status": "انتهت",
-            "channel": "ON Sport MAX",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس رابطة الأندية",
-            "home_team": "المقاولون العرب",
-            "away_team": "الجونة",
-            "time": "15:00",
-            "status": "انتهت",
-            "channel": "ON Sport PLUS",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس رابطة الأندية",
-            "home_team": "غزل المحلة",
-            "away_team": "أبو قير للاسمدة",
-            "time": "18:00",
+            "league": "الدوري الإسباني",
+            "home_team": "مالاجا",
+            "away_team": "اسبانيول",
+            "time": "20:00",
             "status": "لم تبدأ",
-            "channel": "ON Sport",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس رابطة الأندية",
-            "home_team": "مودرن سبورت",
-            "away_team": "البنك الأهلي",
-            "time": "18:00",
-            "status": "لم تبدأ",
-            "channel": "ON Sport MAX",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "فلاورز",
-            "away_team": "الجيش الرواندي",
-            "time": "14:00",
-            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "ميكيلّي 70",
-            "away_team": "الزمالك",
-            "time": "14:00",
-            "status": "انتهت",
-            "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "بترو أتليتيكو",
-            "away_team": "الأهلي",
-            "time": "16:00",
-            "status": "انتهت",
-            "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "رينيسانس",
-            "away_team": "إنتر كلوب",
-            "time": "16:00",
-            "status": "انتهت",
+            "league": "الدوري التركي",
+            "home_team": "جالاتا سراي",
+            "away_team": "قاسم باشا",
+            "time": "18:00",
+            "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "بريميرو دي أوجوستو",
-            "away_team": "كينشاسا",
-            "time": "18:00",
+            "league": "الدوري الفرنسي",
+            "home_team": "لانس",
+            "away_team": "ليون",
+            "time": "19:45",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري الألماني",
+            "home_team": "بروسيا دورتموند",
+            "away_team": "فيردر بريمن",
+            "time": "19:30",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري القسم الثاني-أ",
+            "home_team": "الانتاج الحربي",
+            "away_team": "لافيينا أف سي",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "الإسماعيلي",
+            "away_team": "طنطا‏",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "تيم اف سي",
+            "away_team": "فاركو",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "مالية كفر الزيات",
+            "away_team": "بلدية المحلة",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "المصرية للاتصالات",
+            "away_team": "المنصورة",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري البرتغالي",
+            "home_team": "موريرنسي",
+            "away_team": "جل فيسنتي",
+            "time": "18:45",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري البرتغالي",
+            "home_team": "سبورتينج براجا",
+            "away_team": "سبورتنج لشبونة",
+            "time": "20:15",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري السعودي",
+            "home_team": "الخلود",
+            "away_team": "القادسية",
+            "time": "14:50",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري السعودي",
+            "home_team": "الفتح",
+            "away_team": "أهلي جدة",
+            "time": "15:55",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري السعودي",
             "home_team": "النصر",
-            "away_team": "بروكسي",
-            "time": "13:30",
-            "status": "انتهت",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "حرس الحدود",
-            "away_team": "السكة الحديد",
-            "time": "13:30",
-            "status": "انتهت",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "الترسانة",
-            "away_team": "كهرباء الإسماعيلية",
-            "time": "13:30",
-            "status": "انتهت",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "مسار",
-            "away_team": "الداخلية",
-            "time": "13:30",
-            "status": "انتهت",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "نادى دلتا يونايتد",
-            "away_team": "ديروط",
-            "time": "13:30",
-            "status": "انتهت",
+            "away_team": "الدرعية",
+            "time": "19:00",
+            "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري نجوم قطر",
-            "home_team": "الشمال",
-            "away_team": "الدحيل",
+            "home_team": "نادي قطر",
+            "away_team": "الريان",
             "time": "15:45",
-            "status": "انتهت",
+            "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري نجوم قطر",
-            "home_team": "الوكرة",
-            "away_team": "الغرافة",
+            "home_team": "السد القطري",
+            "away_team": "العربي",
             "time": "18:00",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
@@ -150,35 +150,8 @@
         },
         {
             "league": "الدوري المغربي",
-            "home_team": "الاتحاد التوركي",
-            "away_team": "نهضة بركان",
-            "time": "17:00",
-            "status": "الشوط الأول",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري المغربي",
-            "home_team": "الجيش الملكي",
-            "away_team": "وداد تمارة",
-            "time": "19:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري المغربي",
-            "home_team": "نهضة الزمامرة",
-            "away_team": "حسنية اغادير",
-            "time": "19:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري المغربي",
-            "home_team": "المغرب الفاسي",
-            "away_team": "الرجاء البيضاوي",
+            "home_team": "المغرب التطواني",
+            "away_team": "الفتح الرباطي",
             "time": "21:00",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
