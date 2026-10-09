@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-09 08:26:01",
+    "last_updated": "2026-10-09 15:28:33",
     "total_matches": 17,
     "matches": [
         {
@@ -45,7 +45,7 @@
             "home_team": "الانتاج الحربي",
             "away_team": "لافيينا أف سي",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "الإسماعيلي",
             "away_team": "طنطا‏",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "تيم اف سي",
             "away_team": "فاركو",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "مالية كفر الزيات",
             "away_team": "بلدية المحلة",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "المصرية للاتصالات",
             "away_team": "المنصورة",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "الخلود",
             "away_team": "القادسية",
             "time": "14:50",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "الفتح",
             "away_team": "أهلي جدة",
             "time": "15:55",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ثمانية 1",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "نادي قطر",
             "away_team": "الريان",
             "time": "15:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
