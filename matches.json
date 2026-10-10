@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-10 06:10:49",
+    "last_updated": "2026-10-10 12:51:01",
     "total_matches": 47,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "أرسنال",
             "away_team": "ليدز يونايتد",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "رايو فاييكانو",
             "away_team": "أتلتيك بلباو",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 5 HD",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "جنتشلربيرليجي",
             "away_team": "آميد سبورتيف",
             "time": "11:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -303,18 +303,18 @@
         },
         {
             "league": "الدوري البرتغالي",
-            "home_team": "كازا بيا",
-            "away_team": "سانتا كلارا",
-            "time": "15:30",
+            "home_team": "ماريتيمو",
+            "away_team": "بورتو",
+            "time": "18:00",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
             "league": "الدوري البرتغالي",
-            "home_team": "ماريتيمو",
-            "away_team": "بورتو",
-            "time": "18:00",
+            "home_team": "كازا بيا",
+            "away_team": "سانتا كلارا",
+            "time": "20:30",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
@@ -397,7 +397,7 @@
             "away_team": "الأولمبي الباجي",
             "time": "14:30",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "الوطنية التونسية 1",
             "commentator": "غير محدد"
         },
         {
@@ -406,7 +406,7 @@
             "away_team": "الافريقي التونسي",
             "time": "14:30",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "الوطنية التونسية 2",
             "commentator": "غير محدد"
         },
         {
