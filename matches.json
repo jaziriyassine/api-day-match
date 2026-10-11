@@ -1,8 +1,8 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-11 06:08:41",
-    "total_matches": 38,
+    "last_updated": "2026-10-11 13:15:12",
+    "total_matches": 37,
     "matches": [
         {
             "league": "الدوري المصري",
@@ -27,7 +27,7 @@
             "home_team": "كريستال بالاس",
             "away_team": "نوتينجهام فورست",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "هال سيتي",
             "away_team": "إيفرتون",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "إلتشي",
             "away_team": "سيلتا فيجو",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "كونيا سبور",
             "away_team": "إسطنبول باشاكشهير",
             "time": "11:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "غازي عنتاب بي.بي.كي",
             "away_team": "كوروم",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "نيس",
             "away_team": "ستراسبورج",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "كومو",
             "away_team": "روما",
             "time": "11:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "ليتشي",
             "away_team": "بولونيا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -162,7 +162,7 @@
             "home_team": "لاتسيو",
             "away_team": "مونزا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "بريميرو دي أوجوستو",
             "away_team": "ميكيلّي 70",
             "time": "10:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -216,7 +216,7 @@
             "home_team": "فلاورز",
             "away_team": "إنتر كلوب",
             "time": "12:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -225,7 +225,7 @@
             "home_team": "ميشال سبور",
             "away_team": "الزمالك",
             "time": "12:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -234,7 +234,7 @@
             "home_team": "الجيش الرواندي",
             "away_team": "الأهلي",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
             "commentator": "غير محدد"
         },
@@ -281,15 +281,6 @@
             "time": "14:40",
             "status": "لم تبدأ",
             "channel": "ثمانية 2",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري السعودي",
-            "home_team": "أبها",
-            "away_team": "الفيصلي",
-            "time": "16:25",
-            "status": "لم تبدأ",
-            "channel": "ثمانية 1",
             "commentator": "غير محدد"
         },
         {
