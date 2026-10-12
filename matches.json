@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-12 08:32:03",
+    "last_updated": "2026-10-12 18:32:40",
     "total_matches": 17,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "المقاولون العرب",
             "away_team": "زد",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "مودرن سبورت",
             "away_team": "نادي الشرقية إنبي",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "سموحة",
             "away_team": "غزل المحلة",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "بيراميدز",
             "away_team": "سيراميكا كليوباترا",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "ايوبسبور",
             "away_team": "جوزتيبي",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "أتالانتا",
             "away_team": "فينيزيا",
             "time": "17:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -90,8 +90,8 @@
             "home_team": "باختاكور",
             "away_team": "القادسية",
             "time": "14:45",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "انتهت",
+            "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
         {
@@ -99,8 +99,8 @@
             "home_team": "الوصل",
             "away_team": "أهلي جدة",
             "time": "17:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "انتهت",
+            "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
         {
@@ -108,8 +108,8 @@
             "home_team": "تراكتور",
             "away_team": "الشمال",
             "time": "17:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "انتهت",
+            "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
         {
@@ -117,8 +117,8 @@
             "home_team": "النصر",
             "away_team": "نيفتشي فرجانة",
             "time": "19:15",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "الشوط الأول",
+            "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
         {
@@ -126,8 +126,8 @@
             "home_team": "القوة الجوية",
             "away_team": "العين",
             "time": "19:15",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "الشوط الأول",
+            "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
         {
@@ -135,8 +135,8 @@
             "home_team": "الغرافة",
             "away_team": "الإستقلال",
             "time": "19:15",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "الشوط الأول",
+            "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
         {
