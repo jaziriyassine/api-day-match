@@ -1,76 +1,31 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-13 16:13:13",
-    "total_matches": 25,
+    "last_updated": "2026-10-13 21:24:10",
+    "total_matches": 14,
     "matches": [
         {
-            "league": "الدوري المصري",
-            "home_team": "أبو قير للاسمدة",
-            "away_team": "بترول أسيوط",
-            "time": "15:00",
-            "status": "انتهت",
-            "channel": "ON Sport MAX",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري المصري",
-            "home_team": "البنك الأهلي",
-            "away_team": "طلائع الجيش",
-            "time": "15:00",
-            "status": "انتهت",
-            "channel": "ON Sport PLUS",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري المصري",
-            "home_team": "الاتحاد السكندري",
-            "away_team": "الجونة",
-            "time": "18:00",
+            "league": "بطولة أفريقيا للأندية لكرة اليد",
+            "home_team": "كينشاسا",
+            "away_team": "بترو أتليتيكو",
+            "time": "10:30",
             "status": "لم تبدأ",
-            "channel": "ON Sport",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري المصري",
-            "home_team": "م. السويس بتروجت",
-            "away_team": "وادي دجلة",
-            "time": "18:00",
-            "status": "لم تبدأ",
-            "channel": "ON Sport MAX",
+            "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
             "league": "بطولة أفريقيا للأندية لكرة اليد",
             "home_team": "الأهلي",
-            "away_team": "كينشاسا",
-            "time": "11:00",
-            "status": "انتهت",
-            "channel": "ON Sport MAX",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "بطولة أفريقيا للأندية لكرة اليد",
-            "home_team": "الزمالك",
-            "away_team": "بترو أتليتيكو",
-            "time": "16:00",
-            "status": "مباشر",
-            "channel": "ON Sport MAX",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال أوروبا",
-            "home_team": "لانس",
-            "away_team": "سبورتنج لشبونة",
-            "time": "17:45",
+            "away_team": "الزمالك",
+            "time": "15:30",
             "status": "لم تبدأ",
-            "channel": "بى ان سبورت 3 HD",
+            "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري أبطال أوروبا",
-            "home_team": "صباح إف كيه",
-            "away_team": "سلافيا براج",
+            "home_team": "فينورد",
+            "away_team": "كومو",
             "time": "17:45",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 4 HD",
@@ -78,17 +33,17 @@
         },
         {
             "league": "دوري أبطال أوروبا",
-            "home_team": "أرسنال",
-            "away_team": "ليل",
-            "time": "20:00",
+            "home_team": "لاسك لينز",
+            "away_team": "ليفربول",
+            "time": "17:45",
             "status": "لم تبدأ",
-            "channel": "بى ان سبورت 4 HD",
+            "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري أبطال أوروبا",
-            "home_team": "اتلتيكو مدريد",
-            "away_team": "مانشستر يونايتد",
+            "home_team": "ريال بيتيس",
+            "away_team": "بورتو",
             "time": "20:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 5 HD",
@@ -96,17 +51,8 @@
         },
         {
             "league": "دوري أبطال أوروبا",
-            "home_team": "جالاتا سراي",
-            "away_team": "برشلونة",
-            "time": "20:00",
-            "status": "لم تبدأ",
-            "channel": "بى ان سبورت 1HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال أوروبا",
-            "home_team": "إنتر ميلان",
-            "away_team": "كلوب بروج",
+            "home_team": "جليمت",
+            "away_team": "بروسيا دورتموند",
             "time": "20:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 6 HD",
@@ -114,17 +60,35 @@
         },
         {
             "league": "دوري أبطال أوروبا",
-            "home_team": "لايبزيج",
-            "away_team": "إيندهوفن",
+            "home_team": "مانشستر سيتي",
+            "away_team": "باريس سان جيرمان",
             "time": "20:00",
             "status": "لم تبدأ",
-            "channel": "بى ان سبورت اكسترا 1",
+            "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري أبطال أوروبا",
-            "home_team": "نادى فيكينج",
-            "away_team": "بايرن ميونيخ",
+            "home_team": "روما",
+            "away_team": "ريال مدريد",
+            "time": "20:00",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت 3 HD",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري أبطال أوروبا",
+            "home_team": "شاختار دونيتسك",
+            "away_team": "ايك اثينا",
+            "time": "20:00",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت اكسترا 2",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري أبطال أوروبا",
+            "home_team": "سلوفان براتيسلافا",
+            "away_team": "شتوتجارت",
             "time": "20:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 7 HD",
@@ -132,98 +96,35 @@
         },
         {
             "league": "دوري أبطال أوروبا",
-            "home_team": "فياريال",
-            "away_team": "نابولي",
+            "home_team": "أستون فيلا",
+            "away_team": "فنربخشة",
             "time": "20:00",
             "status": "لم تبدأ",
-            "channel": "بى ان سبورت 8 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال آسيا للنخبة",
-            "home_team": "نيوكاسل جيتس",
-            "away_team": "جامبا أوساكا",
-            "time": "08:45",
-            "status": "انتهت",
-            "channel": "بى ان سبورت 2 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال آسيا للنخبة",
-            "home_team": "كيوتو سانجا",
-            "away_team": "راتشابوري",
-            "time": "11:00",
-            "status": "انتهت",
-            "channel": "بى ان سبورت 5 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال آسيا للنخبة",
-            "home_team": "بوهانغ ستيلرز",
-            "away_team": "جوهور دارول تاكزيم",
-            "time": "11:00",
-            "status": "انتهت",
-            "channel": "بى ان سبورت 3 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال آسيا للنخبة",
-            "home_team": "شنغهاي بورت",
-            "away_team": "دايجـو",
-            "time": "11:00",
-            "status": "انتهت",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري أبطال آسيا للنخبة",
-            "home_team": "بوريرام",
-            "away_team": "جوان بكين",
-            "time": "13:15",
-            "status": "انتهت",
-            "channel": "بى ان سبورت 2 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال آسيا للنخبة",
-            "home_team": "كونغ آن هانوي",
-            "away_team": "كاشيما انتلرز",
-            "time": "13:15",
-            "status": "انتهت",
+            "home_team": "كاشيوا ريسول",
+            "away_team": "تاي بورت",
+            "time": "11:00",
+            "status": "لم تبدأ",
             "channel": "بى ان سبورت 5 HD",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري أبطال آسيا للنخبة",
-            "home_team": "السد القطري",
-            "away_team": "الهلال",
-            "time": "17:00",
-            "status": "الشوط الأول",
-            "channel": "بى ان سبورت 2 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال آسيا للنخبة",
-            "home_team": "الاتحاد",
-            "away_team": "شباب الأهلي",
-            "time": "19:15",
+            "home_team": "فيسيل كوبه",
+            "away_team": "تشونبك هيونداي",
+            "time": "11:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
         {
             "league": "الدوري المغربي",
-            "home_team": "نهضة بركان",
-            "away_team": "نهضة الزمامرة",
-            "time": "19:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري المغربي",
-            "home_team": "الفتح الرباطي",
-            "away_team": "الرجاء البيضاوي",
+            "home_team": "اتحاد طنجة",
+            "away_team": "المغرب الفاسي",
             "time": "21:00",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
