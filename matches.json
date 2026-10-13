@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-13 08:03:03",
+    "last_updated": "2026-10-13 16:13:13",
     "total_matches": 25,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "أبو قير للاسمدة",
             "away_team": "بترول أسيوط",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "البنك الأهلي",
             "away_team": "طلائع الجيش",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "الأهلي",
             "away_team": "كينشاسا",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "الزمالك",
             "away_team": "بترو أتليتيكو",
             "time": "16:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "نيوكاسل جيتس",
             "away_team": "جامبا أوساكا",
             "time": "08:45",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "كيوتو سانجا",
             "away_team": "راتشابوري",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 5 HD",
             "commentator": "غير محدد"
         },
@@ -162,7 +162,7 @@
             "home_team": "بوهانغ ستيلرز",
             "away_team": "جوهور دارول تاكزيم",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "شنغهاي بورت",
             "away_team": "دايجـو",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "بوريرام",
             "away_team": "جوان بكين",
             "time": "13:15",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -189,7 +189,7 @@
             "home_team": "كونغ آن هانوي",
             "away_team": "كاشيما انتلرز",
             "time": "13:15",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 5 HD",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "السد القطري",
             "away_team": "الهلال",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
