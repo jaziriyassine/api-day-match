@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-14 05:14:03",
+    "last_updated": "2026-10-14 10:25:30",
     "total_matches": 14,
     "matches": [
         {
@@ -108,7 +108,7 @@
             "home_team": "كاشيوا ريسول",
             "away_team": "تاي بورت",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 5 HD",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "فيسيل كوبه",
             "away_team": "تشونبك هيونداي",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
