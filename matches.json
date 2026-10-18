@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-18 18:14:42",
+    "last_updated": "2026-10-18 20:56:56",
     "total_matches": 49,
     "matches": [
         {
@@ -54,7 +54,7 @@
             "home_team": "السويحلي الرياضي",
             "away_team": "الترجى الرياضي",
             "time": "18:00",
-            "status": "استراحة",
+            "status": "انتهت",
             "channel": "قناة ليبيا الرياضية",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "توينجيت",
             "away_team": "نادي كولومب",
             "time": "18:00",
-            "status": "استراحة",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "المغرب الفاسي",
             "away_team": "أسيك أبيدجـــــان",
             "time": "19:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "إف سي ديارا",
             "away_team": "اسكو كارا",
             "time": "17:30",
-            "status": "الشوط الثاني",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "مالاجا",
             "away_team": "ريال سوسيداد",
             "time": "17:30",
-            "status": "الشوط الثاني",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "ريال مدريد",
             "away_team": "اشبيلية",
             "time": "20:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -279,7 +279,7 @@
             "home_team": "ليون",
             "away_team": "نيس",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -315,7 +315,7 @@
             "home_team": "يوفنتوس",
             "away_team": "لاتسيو",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -342,7 +342,7 @@
             "home_team": "الفتح",
             "away_team": "الخليج",
             "time": "19:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
@@ -387,7 +387,7 @@
             "home_team": "الغرافة",
             "away_team": "الريان",
             "time": "17:45",
-            "status": "الشوط الثاني",
+            "status": "انتهت",
             "channel": "الكأس 6",
             "commentator": "غير محدد"
         },
@@ -396,7 +396,7 @@
             "home_team": "وداد تمارة",
             "away_team": "الكوكب المراكشي",
             "time": "19:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -405,7 +405,7 @@
             "home_team": "الوداد البيضاوي",
             "away_team": "أمل تزنيت",
             "time": "21:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
