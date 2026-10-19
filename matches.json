@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-19 12:00:28",
+    "last_updated": "2026-10-19 18:47:03",
     "total_matches": 12,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "الجونة",
             "away_team": "سموحة",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport PLUS HD",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "المصري",
             "away_team": "أبو قير للاسمدة",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "نادي الشرقية إنبي",
             "away_team": "المقاولون العرب",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "ON Sport MAX HD",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "طرابزون سبور",
             "away_team": "بشكتاش",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "مونزا",
             "away_team": "كالياري",
             "time": "17:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "الفيحاء",
             "away_team": "أهلي جدة",
             "time": "16:05",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "الهلال",
             "away_team": "الحزم",
             "time": "19:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "الشباب",
             "away_team": "الفيصلي",
             "time": "19:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
