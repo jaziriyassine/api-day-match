@@ -1,15 +1,15 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-20 12:50:43",
-    "total_matches": 18,
+    "last_updated": "2026-10-20 17:45:00",
+    "total_matches": 17,
     "matches": [
         {
             "league": "الدوري المصري",
             "home_team": "بترول أسيوط",
             "away_team": "الزمالك",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "زد",
             "away_team": "مودرن سبورت",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport PLUS HD",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "وادي دجلة",
             "away_team": "البنك الأهلي",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport PLUS HD",
             "commentator": "غير محدد"
         },
@@ -36,17 +36,8 @@
             "home_team": "طلائع الجيش",
             "away_team": "بيراميدز",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport MAX HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال أفريقيا",
-            "home_team": "نادي 15 أوجوستو",
-            "away_team": "سيمبا",
-            "time": "14:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
@@ -54,7 +45,7 @@
             "home_team": "فنربخشة",
             "away_team": "سلافيا براج",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +54,7 @@
             "home_team": "صباح إف كيه",
             "away_team": "بروسيا دورتموند",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -135,8 +126,8 @@
             "home_team": "الدرعية",
             "away_team": "الرياض",
             "time": "16:00",
-            "status": "لم تبدأ",
-            "channel": "ثمانية 1",
+            "status": "انتهت",
+            "channel": "ثمانية 3",
             "commentator": "غير محدد"
         },
         {
@@ -144,7 +135,7 @@
             "home_team": "التعاون",
             "away_team": "القادسية",
             "time": "16:10",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
@@ -154,7 +145,7 @@
             "away_team": "نادي نيوم",
             "time": "19:00",
             "status": "لم تبدأ",
-            "channel": "ثمانية 1",
+            "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
         {
@@ -163,7 +154,7 @@
             "away_team": "الاتحاد",
             "time": "19:00",
             "status": "لم تبدأ",
-            "channel": "ثمانية 2",
+            "channel": "ثمانية 1",
             "commentator": "غير محدد"
         }
     ]
