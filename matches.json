@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-21 10:25:26",
+    "last_updated": "2026-10-21 15:28:56",
     "total_matches": 15,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "غزل المحلة",
             "away_team": "الاتحاد السكندري",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "ON Sport PLUS HD",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "نادي 15 أوجوستو",
             "away_team": "سيمبا",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
