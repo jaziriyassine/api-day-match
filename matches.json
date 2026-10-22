@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-22 12:13:55",
+    "last_updated": "2026-10-22 17:27:36",
     "total_matches": 46,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "النصر",
             "away_team": "الداخلية",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "ديروط",
             "away_team": "السكة الحديد",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "مالية كفر الزيات",
             "away_team": "كهرباء الإسماعيلية",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "المصرية للاتصالات",
             "away_team": "بلدية المحلة",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "نادى دلتا يونايتد",
             "away_team": "طنطا‏",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "أرارات أرمينيا",
             "away_team": "الكمار",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 6 HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "دينامو زغرب",
             "away_team": "إن إي سي نيميخن",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت اكسترا 2",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "فرنتسفاروشي",
             "away_team": "تورينسي",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت اكسترا 3",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "يوفنتوس",
             "away_team": "رين",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "ليخ بوزنان",
             "away_team": "سندرلاند",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "أوفي كريت",
             "away_team": "باير ليفركوزن",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت اكسترا 1",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "سان جيلواز",
             "away_team": "هابويل بئر سبع",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "شتورم جراتس",
             "away_team": "مارسيليا",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -216,7 +216,7 @@
             "home_team": "نادي كايرات",
             "away_team": "باناثينايكوس",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت انجليش 1",
             "commentator": "غير محدد"
         },
@@ -225,7 +225,7 @@
             "home_team": "سرفينا زافيزدا",
             "away_team": "كوبنهاجن",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت اكسترا 6",
             "commentator": "غير محدد"
         },
@@ -234,7 +234,7 @@
             "home_team": "خيتافي",
             "away_team": "لوجانو",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت اكسترا 4",
             "commentator": "غير محدد"
         },
@@ -243,7 +243,7 @@
             "home_team": "إيبيريا تبيليسي",
             "away_team": "ميالبو سولفسبورج",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -252,7 +252,7 @@
             "home_team": "إنتر ديسكالديس",
             "away_team": "يونيفيرسيتاتيا كرايوفا",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -261,7 +261,7 @@
             "home_team": "يابلونك",
             "away_team": "برايتون",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 5 HD",
             "commentator": "غير محدد"
         },
@@ -270,7 +270,7 @@
             "home_team": "كانو زالجيريس",
             "away_team": "بران",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت انجليش 2",
             "commentator": "غير محدد"
         },
@@ -279,7 +279,7 @@
             "home_team": "نورشيلاند",
             "away_team": "سسكا صوفيا",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -288,7 +288,7 @@
             "home_team": "نادي بافوس",
             "away_team": "ريجا",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت اكسترا 5",
             "commentator": "غير محدد"
         },
@@ -297,7 +297,7 @@
             "home_team": "طرابزون سبور",
             "away_team": "هارت أوف ميدلوثيان",
             "time": "17:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -378,7 +378,7 @@
             "home_team": "الحزم",
             "away_team": "الفيحاء",
             "time": "14:40",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -387,7 +387,7 @@
             "home_team": "الفتح",
             "away_team": "الشباب",
             "time": "15:45",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -405,8 +405,8 @@
             "home_team": "الشحانية",
             "away_team": "السد القطري",
             "time": "15:30",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "انتهت",
+            "channel": "الكأس 5",
             "commentator": "غير محدد"
         },
         {
@@ -414,8 +414,8 @@
             "home_team": "الغرافة",
             "away_team": "الأهلي القطري",
             "time": "17:45",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "الشوط الأول",
+            "channel": "الكأس 6",
             "commentator": "غير محدد"
         }
     ]
