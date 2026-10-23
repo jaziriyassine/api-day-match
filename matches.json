@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-22 23:51:59",
+    "last_updated": "2026-10-23 03:13:44",
     "total_matches": 29,
     "matches": [
         {
@@ -42,8 +42,8 @@
         },
         {
             "league": "الكونفيدرالية الأفريقية",
-            "home_team": "بريميرو دي اوجوستو",
-            "away_team": "فيرونغا",
+            "home_team": "كايزر تشيفز",
+            "away_team": "ريد أروس",
             "time": "17:00",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
@@ -51,9 +51,9 @@
         },
         {
             "league": "الكونفيدرالية الأفريقية",
-            "home_team": "كايزر تشيفز",
-            "away_team": "ريد أروس",
-            "time": "17:00",
+            "home_team": "بريميرو دي اوجوستو",
+            "away_team": "فيرونغا",
+            "time": "20:00",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
@@ -73,7 +73,7 @@
             "away_team": "نوتينجهام فورست",
             "time": "20:00",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
         {
@@ -82,7 +82,7 @@
             "away_team": "مالاجا",
             "time": "20:00",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
         {
@@ -100,7 +100,7 @@
             "away_team": "نيس",
             "time": "19:45",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "بى ان سبورت 8 HD",
             "commentator": "غير محدد"
         },
         {
@@ -109,7 +109,7 @@
             "away_team": "مونزا",
             "time": "19:45",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
         {
@@ -118,7 +118,7 @@
             "away_team": "مونشنجلادباخ",
             "time": "19:30",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "Shahid",
             "commentator": "غير محدد"
         },
         {
@@ -208,7 +208,7 @@
             "away_team": "الهلال",
             "time": "19:00",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "ثمانية 1",
             "commentator": "غير محدد"
         },
         {
