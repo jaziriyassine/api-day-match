@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-23 08:44:40",
+    "last_updated": "2026-10-23 14:02:07",
     "total_matches": 29,
     "matches": [
         {
@@ -126,7 +126,7 @@
             "home_team": "الانتاج الحربي",
             "away_team": "المنصورة",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "حرس الحدود",
             "away_team": "بروكسي",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "الإسماعيلي",
             "away_team": "لافيينا أف سي",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "تيم اف سي",
             "away_team": "الترسانة",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -162,8 +162,8 @@
             "home_team": "مسار",
             "away_team": "فاركو",
             "time": "13:30",
-            "status": "لم تبدأ",
-            "channel": "ON Sport PLUS HD",
+            "status": "مباشر",
+            "channel": "ON Sport MAX HD",
             "commentator": "غير محدد"
         },
         {
@@ -180,8 +180,8 @@
             "home_team": "الفيصلي",
             "away_team": "النصر",
             "time": "14:30",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "الشوط الأول",
+            "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
         {
@@ -190,7 +190,7 @@
             "away_team": "الدرعية",
             "time": "16:30",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "ثمانية 3",
             "commentator": "غير محدد"
         },
         {
@@ -199,7 +199,7 @@
             "away_team": "الخليج",
             "time": "19:00",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
         {
@@ -234,7 +234,7 @@
             "home_team": "إتحاد بن قردان",
             "away_team": "الملعب التونسي",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -243,7 +243,7 @@
             "home_team": "البنزرتي",
             "away_team": "أمل حمام سوسة",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -252,7 +252,7 @@
             "home_team": "مستقبل المرسى",
             "away_team": "حمام الأنف",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -261,7 +261,7 @@
             "home_team": "شبيبة العمران",
             "away_team": "الأولمبي الباجي",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
