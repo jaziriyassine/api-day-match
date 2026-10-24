@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-24 09:16:38",
+    "last_updated": "2026-10-24 13:27:42",
     "total_matches": 43,
     "matches": [
         {
@@ -54,7 +54,7 @@
             "home_team": "عزام يونايتد",
             "away_team": "زد",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport HD",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "أستون فيلا",
             "away_team": "مانشستر سيتي",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "رايو فاييكانو",
             "away_team": "إلتشي",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "ايوبسبور",
             "away_team": "قاسم باشا",
             "time": "11:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "غازي عنتاب بي.بي.كي",
             "away_team": "إيرزوروم سبور",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "كالياري",
             "away_team": "بولونيا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -216,7 +216,7 @@
             "home_team": "كومو",
             "away_team": "ساسولو",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
