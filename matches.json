@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-25 09:04:27",
+    "last_updated": "2026-10-25 13:49:11",
     "total_matches": 43,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "سيمبا",
             "away_team": "نادي 15 أوجوستو",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "أس مانيما يونيون",
             "away_team": "كابوسكورب",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "بورت لويس",
             "away_team": "ديربان سيتي",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "أتلتيك بلباو",
             "away_team": "خيتافي",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 6 HD",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "كونيا سبور",
             "away_team": "جنتشلربيرليجي",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -279,7 +279,7 @@
             "home_team": "إنتر ميلان",
             "away_team": "فيورنتينا",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
