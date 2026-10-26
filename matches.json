@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-26 12:11:37",
+    "last_updated": "2026-10-26 18:47:10",
     "total_matches": 11,
     "matches": [
         {
@@ -18,8 +18,8 @@
             "home_team": "ريزه سبور",
             "away_team": "طرابزون سبور",
             "time": "17:00",
-            "status": "لم تبدأ",
-            "channel": "بى ان سبورت 3 HD",
+            "status": "انتهت",
+            "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
         {
@@ -27,7 +27,7 @@
             "home_team": "بشكتاش",
             "away_team": "إسطنبول باشاكشهير",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "جالاتا سراي",
             "away_team": "فنربخشة",
             "time": "19:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "نيفتشي فرجانة",
             "away_team": "الاتحاد",
             "time": "14:45",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "أهلي جدة",
             "away_team": "الغرافة",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "العين",
             "away_team": "تراكتور",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "القادسية",
             "away_team": "السد القطري",
             "time": "19:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "القوة الجوية",
             "away_team": "باختاكور",
             "time": "19:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 6 HD",
             "commentator": "غير محدد"
         },
