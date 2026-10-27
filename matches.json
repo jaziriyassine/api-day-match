@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-27 14:47:08",
+    "last_updated": "2026-10-27 19:47:47",
     "total_matches": 22,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "ساسولو",
             "away_team": "لاتسيو",
             "time": "18:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "تورينو",
             "away_team": "كومو",
             "time": "20:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "روما",
             "away_team": "كالياري",
             "time": "20:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "شباب الأهلي",
             "away_team": "الإستقلال",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "الشمال",
             "away_team": "الهلال",
             "time": "19:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "برادفورد سيتي",
             "away_team": "بيتربورو يونايتد",
             "time": "20:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "بوخوم",
             "away_team": "ماينز",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "زونينوف جروساسباخ",
             "away_team": "أوجسبورج",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "هامبورج",
             "away_team": "آ. فرانكفورت",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "أبوظبي الرياضية - HD 2",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "روت فايس إيسن",
             "away_team": "لايبزيج",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -162,7 +162,7 @@
             "home_team": "بروسيا دورتموند",
             "away_team": "فيردر بريمن",
             "time": "20:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "إس في إلفيرسبيرج",
             "away_team": "دارمشتات",
             "time": "20:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "كولن",
             "away_team": "يونيون برلين",
             "time": "20:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -189,7 +189,7 @@
             "home_team": "مونشنجلادباخ",
             "away_team": "كارلسروه",
             "time": "20:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "أبوظبي الرياضية - HD 2",
             "commentator": "غير محدد"
         },
