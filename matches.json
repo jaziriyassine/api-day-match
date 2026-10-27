@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-27 08:10:29",
+    "last_updated": "2026-10-27 14:47:08",
     "total_matches": 22,
     "matches": [
         {
@@ -36,7 +36,7 @@
             "home_team": "دايجـو",
             "away_team": "فيسيل كوبه",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "جوهور دارول تاكزيم",
             "away_team": "تاي بورت",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "كيوتو سانجا",
             "away_team": "نيوكاسل جيتس",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "شنغهاي بورت",
             "away_team": "كونغ آن هانوي",
             "time": "11:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "جوان بكين",
             "away_team": "تشونبك هيونداي",
             "time": "13:15",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "راتشابوري",
             "away_team": "كاشيوا ريسول",
             "time": "13:15",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "أبها",
             "away_team": "الفيصلي",
             "time": "13:40",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ثمانية 1",
             "commentator": "غير محدد"
         }
