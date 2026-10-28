@@ -1,31 +1,31 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-28 16:11:39",
-    "total_matches": 24,
+    "last_updated": "2026-10-28 21:13:22",
+    "total_matches": 19,
     "matches": [
         {
             "league": "الدوري المصري",
-            "home_team": "البنك الأهلي",
-            "away_team": "المصري",
+            "home_team": "مودرن سبورت",
+            "away_team": "الأهلي",
             "time": "15:00",
-            "status": "انتهت",
-            "channel": "ON Sport MAX HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري المصري",
-            "home_team": "الزمالك",
-            "away_team": "المقاولون العرب",
-            "time": "18:00",
             "status": "لم تبدأ",
             "channel": "ON Sport HD",
             "commentator": "غير محدد"
         },
         {
+            "league": "الدوري المصري",
+            "home_team": "بيراميدز",
+            "away_team": "وادي دجلة",
+            "time": "18:00",
+            "status": "لم تبدأ",
+            "channel": "ON Sport MAX HD",
+            "commentator": "غير محدد"
+        },
+        {
             "league": "الدوري الإيطالي",
-            "home_team": "بارما",
-            "away_team": "أودينيزي",
+            "home_team": "فروزينوني",
+            "away_team": "ليتشي",
             "time": "18:30",
             "status": "لم تبدأ",
             "channel": "Starz Play App",
@@ -33,189 +33,144 @@
         },
         {
             "league": "الدوري الإيطالي",
-            "home_team": "ميلان",
-            "away_team": "بولونيا",
-            "time": "18:30",
-            "status": "لم تبدأ",
-            "channel": "Starz Play App",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري الإيطالي",
-            "home_team": "فينيزيا",
-            "away_team": "إنتر ميلان",
-            "time": "18:30",
-            "status": "لم تبدأ",
-            "channel": "Starz Play App",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري الإيطالي",
-            "home_team": "جنوى",
-            "away_team": "يوفنتوس",
+            "home_team": "فيورنتينا",
+            "away_team": "أتالانتا",
             "time": "20:45",
             "status": "لم تبدأ",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
         {
-            "league": "الدوري الإيطالي",
-            "home_team": "مونزا",
-            "away_team": "نابولي",
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "لافيينا أف سي",
+            "away_team": "ديروط",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "المنصورة",
+            "away_team": "حرس الحدود",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "فاركو",
+            "away_team": "المصرية للاتصالات",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "كهرباء الإسماعيلية",
+            "away_team": "مسار",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "الترسانة",
+            "away_team": "مالية كفر الزيات",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "تيم اف سي",
+            "away_team": "نادى دلتا يونايتد",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس كاراباو",
+            "home_team": "إيفرتون",
+            "away_team": "نيوكاسل",
             "time": "20:45",
-            "status": "لم تبدأ",
-            "channel": "Starz Play App",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال آسيا للنخبة",
-            "home_team": "جامبا أوساكا",
-            "away_team": "بوريرام",
-            "time": "11:00",
-            "status": "انتهت",
-            "channel": "بى ان سبورت 2 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري أبطال آسيا للنخبة",
-            "home_team": "كاشيما انتلرز",
-            "away_team": "بوهانغ ستيلرز",
-            "time": "11:00",
-            "status": "انتهت",
-            "channel": "بى ان سبورت 3 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس كاراباو",
-            "home_team": "مانشستر سيتي",
-            "away_team": "برايتون",
-            "time": "20:30",
-            "status": "لم تبدأ",
-            "channel": "بى ان سبورت 4 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس كاراباو",
-            "home_team": "فولهام",
-            "away_team": "كريستال بالاس",
-            "time": "20:45",
-            "status": "لم تبدأ",
-            "channel": "بى ان سبورت 9 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس كاراباو",
-            "home_team": "سندرلاند",
-            "away_team": "برينتفورد",
-            "time": "20:45",
-            "status": "لم تبدأ",
-            "channel": "بى ان سبورت 5 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس كاراباو",
-            "home_team": "بورنموث",
-            "away_team": "أستون فيلا",
-            "time": "20:45",
-            "status": "لم تبدأ",
-            "channel": "بى ان سبورت 6 HD",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس كاراباو",
-            "home_team": "ليفربول",
-            "away_team": "تشيلسي",
-            "time": "21:00",
             "status": "لم تبدأ",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
         {
-            "league": "كأس ألمانيا",
-            "home_team": "دينامو دريسدين",
-            "away_team": "شالكه",
-            "time": "18:00",
+            "league": "الدوري السعودي",
+            "home_team": "الخليج",
+            "away_team": "الحزم",
+            "time": "15:35",
             "status": "لم تبدأ",
-            "channel": "أبوظبي الرياضية - HD 2",
+            "channel": "ثمانية 3",
             "commentator": "غير محدد"
         },
         {
-            "league": "كأس ألمانيا",
-            "home_team": "فرايبورج",
-            "away_team": "فولفسبورج",
-            "time": "18:00",
-            "status": "لم تبدأ",
-            "channel": "أبوظبي الرياضية - HD1",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس ألمانيا",
-            "home_team": "بادربورن",
-            "away_team": "شتوتجارت",
-            "time": "18:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس ألمانيا",
-            "home_team": "اس اس في جيديلوه",
-            "away_team": "هيرتا برلين",
-            "time": "18:00",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس ألمانيا",
-            "home_team": "باير ليفركوزن",
-            "away_team": "نورنبيرج",
-            "time": "20:45",
-            "status": "لم تبدأ",
-            "channel": "أبوظبي الرياضية - HD 2",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس ألمانيا",
-            "home_team": "بايرن ميونيخ",
-            "away_team": "ماجديبورج",
-            "time": "20:45",
-            "status": "لم تبدأ",
-            "channel": "أبوظبي الرياضية - HD1",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس ألمانيا",
-            "home_team": "هانوفر96",
-            "away_team": "كايزرسلاوترن",
-            "time": "20:45",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس ألمانيا",
-            "home_team": "هولشتاين كيل",
-            "away_team": "هوفنهايم",
-            "time": "20:45",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري المغربي",
-            "home_team": "الرجاء البيضاوي",
-            "away_team": "حسنية اغادير",
+            "league": "الدوري السعودي",
+            "home_team": "النصر",
+            "away_team": "الخلود",
             "time": "19:00",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "ثمانية 1",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري السعودي",
+            "home_team": "الرياض",
+            "away_team": "القادسية",
+            "time": "19:00",
+            "status": "لم تبدأ",
+            "channel": "ثمانية 2",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري الإماراتي",
+            "home_team": "العين",
+            "away_team": "عجمان",
+            "time": "15:10",
+            "status": "لم تبدأ",
+            "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
         {
             "league": "الدوري المغربي",
-            "home_team": "الجيش الملكي",
-            "away_team": "اتحاد طنجة",
+            "home_team": "المغرب الفاسي",
+            "away_team": "نهضة بركان",
             "time": "21:00",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري التونسي",
+            "home_team": "الملعب التونسي",
+            "away_team": "الترجي الجرجيسي",
+            "time": "14:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري التونسي",
+            "home_team": "الافريقي التونسي",
+            "away_team": "البنزرتي",
+            "time": "14:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري التونسي",
+            "home_team": "الصفاقســــي",
+            "away_team": "الترجى الرياضي",
+            "time": "14:30",
             "status": "لم تبدأ",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
