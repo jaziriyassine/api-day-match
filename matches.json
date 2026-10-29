@@ -1,8 +1,8 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-28 21:13:22",
-    "total_matches": 19,
+    "last_updated": "2026-10-29 01:07:55",
+    "total_matches": 15,
     "matches": [
         {
             "league": "الدوري المصري",
@@ -55,34 +55,7 @@
             "away_team": "حرس الحدود",
             "time": "13:30",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "فاركو",
-            "away_team": "المصرية للاتصالات",
-            "time": "13:30",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "كهرباء الإسماعيلية",
-            "away_team": "مسار",
-            "time": "13:30",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "الترسانة",
-            "away_team": "مالية كفر الزيات",
-            "time": "13:30",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "ON Sport MAX HD",
             "commentator": "غير محدد"
         },
         {
@@ -128,15 +101,6 @@
             "time": "19:00",
             "status": "لم تبدأ",
             "channel": "ثمانية 2",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "الدوري الإماراتي",
-            "home_team": "العين",
-            "away_team": "عجمان",
-            "time": "15:10",
-            "status": "لم تبدأ",
-            "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
         {
