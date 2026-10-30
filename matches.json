@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-30 06:10:27",
+    "last_updated": "2026-10-30 13:17:31",
     "total_matches": 24,
     "matches": [
         {
@@ -90,7 +90,7 @@
             "home_team": "السكة الحديد",
             "away_team": "طنطا‏",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "بروكسي",
             "away_team": "الإسماعيلي",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "الداخلية",
             "away_team": "الانتاج الحربي",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "بلدية المحلة",
             "away_team": "النصر",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "فاركو",
             "away_team": "المصرية للاتصالات",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "كهرباء الإسماعيلية",
             "away_team": "مسار",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "الترسانة",
             "away_team": "مالية كفر الزيات",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -162,8 +162,8 @@
             "home_team": "أبها",
             "away_team": "الاتحاد",
             "time": "12:30",
-            "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "status": "الشوط الأول",
+            "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
         {
@@ -172,7 +172,7 @@
             "away_team": "نادي نيوم",
             "time": "14:50",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "ثمانية 3",
             "commentator": "غير محدد"
         },
         {
@@ -181,7 +181,7 @@
             "away_team": "أهلي جدة",
             "time": "18:00",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "ثمانية 1",
             "commentator": "غير محدد"
         },
         {
@@ -190,7 +190,7 @@
             "away_team": "الأهلي القطري",
             "time": "14:15",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "الكأس 5",
             "commentator": "غير محدد"
         },
         {
@@ -199,7 +199,7 @@
             "away_team": "نادي قطر",
             "time": "16:30",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "الكأس 7",
             "commentator": "غير محدد"
         },
         {
@@ -208,7 +208,7 @@
             "away_team": "الشمال",
             "time": "16:30",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "الكأس 6",
             "commentator": "غير محدد"
         },
         {
