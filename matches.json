@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-30 13:17:31",
+    "last_updated": "2026-10-30 18:42:18",
     "total_matches": 24,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "بترول أسيوط",
             "away_team": "الجونة",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX HD",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "الاتحاد السكندري",
             "away_team": "طلائع الجيش",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport HD",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "القناة",
             "away_team": "نادي الشرقية إنبي",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ON Sport MAX HD",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "كونيا سبور",
             "away_team": "جالاتا سراي",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "لوهافر",
             "away_team": "باريس سان جيرمان",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "نيس",
             "away_team": "رين",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "السكة الحديد",
             "away_team": "طنطا‏",
             "time": "12:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "بروكسي",
             "away_team": "الإسماعيلي",
             "time": "12:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "الداخلية",
             "away_team": "الانتاج الحربي",
             "time": "12:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "بلدية المحلة",
             "away_team": "النصر",
             "time": "12:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "فاركو",
             "away_team": "المصرية للاتصالات",
             "time": "12:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "كهرباء الإسماعيلية",
             "away_team": "مسار",
             "time": "12:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "الترسانة",
             "away_team": "مالية كفر الزيات",
             "time": "12:30",
-            "status": "مباشر",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -162,7 +162,7 @@
             "home_team": "أبها",
             "away_team": "الاتحاد",
             "time": "12:30",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "ثمانية 2",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "الدرعية",
             "away_team": "نادي نيوم",
             "time": "14:50",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ثمانية 3",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "الشباب",
             "away_team": "أهلي جدة",
             "time": "18:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "ثمانية 1",
             "commentator": "غير محدد"
         },
@@ -189,7 +189,7 @@
             "home_team": "الشحانية",
             "away_team": "الأهلي القطري",
             "time": "14:15",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 5",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "الغرافة",
             "away_team": "نادي قطر",
             "time": "16:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 7",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "السد القطري",
             "away_team": "الشمال",
             "time": "16:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 6",
             "commentator": "غير محدد"
         },
