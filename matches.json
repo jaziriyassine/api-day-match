@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-10-31 08:12:13",
+    "last_updated": "2026-10-31 14:38:42",
     "total_matches": 39,
     "matches": [
         {
@@ -36,7 +36,7 @@
             "home_team": "تشيلسي",
             "away_team": "مانشستر يونايتد",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "ليفانتي",
             "away_team": "اتلتيكو مدريد",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 8 HD",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "إيرزوروم سبور",
             "away_team": "كوروم",
             "time": "10:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "كوجالي سبور",
             "away_team": "ريزه سبور",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "بولونيا",
             "away_team": "مونزا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "مونشنجلادباخ",
             "away_team": "بادربورن",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Shahid",
             "commentator": "غير محدد"
         },
@@ -216,7 +216,7 @@
             "home_team": "شالكه",
             "away_team": "لايبزيج",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Shahid",
             "commentator": "غير محدد"
         },
@@ -225,7 +225,7 @@
             "home_team": "أوجسبورج",
             "away_team": "فرايبورج",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Shahid",
             "commentator": "غير محدد"
         },
@@ -234,7 +234,7 @@
             "home_team": "فيردر بريمن",
             "away_team": "هوفنهايم",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Shahid",
             "commentator": "غير محدد"
         },
@@ -243,7 +243,7 @@
             "home_team": "باير ليفركوزن",
             "away_team": "شتوتجارت",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "‎MBC Action",
             "commentator": "غير محدد"
         },
@@ -279,7 +279,7 @@
             "home_team": "التعاون",
             "away_team": "الاتفـــــاق",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "ثمانية 3",
             "commentator": "غير محدد"
         },
@@ -306,7 +306,7 @@
             "home_team": "السيلية",
             "away_team": "نادي لوسيل",
             "time": "14:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
