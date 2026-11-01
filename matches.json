@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-01 08:38:52",
+    "last_updated": "2026-11-01 15:42:54",
     "total_matches": 28,
     "matches": [
         {
@@ -18,7 +18,7 @@
             "home_team": "خيتافي",
             "away_team": "اشبيلية",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 3 HD",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "ر.سانتاندير",
             "away_team": "ريال مدريد",
             "time": "15:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت 2 HD",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "آميد سبورتيف",
             "away_team": "ايوبسبور",
             "time": "10:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "طرابزون سبور",
             "away_team": "غازي عنتاب بي.بي.كي",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت 1HD",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "إسطنبول باشاكشهير",
             "away_team": "سامسون سبور",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "ستراسبورج",
             "away_team": "اوكسير",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت 4 HD",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "كومو",
             "away_team": "فينيزيا",
             "time": "11:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "فروزينوني",
             "away_team": "تورينو",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "لاتسيو",
             "away_team": "كالياري",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "يونيون برلين",
             "away_team": "كولن",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "Shahid",
             "commentator": "غير محدد"
         },
@@ -226,7 +226,7 @@
             "away_team": "المغرب الفاسي",
             "time": "16:00",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "الرياضية المغربية 3",
             "commentator": "غير محدد"
         },
         {
@@ -235,7 +235,7 @@
             "away_team": "الجيش الملكي",
             "time": "18:00",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "الرياضية المغربية 3",
             "commentator": "غير محدد"
         },
         {
@@ -253,7 +253,7 @@
             "away_team": "الرجاء البيضاوي",
             "time": "20:00",
             "status": "لم تبدأ",
-            "channel": "غير معلنة",
+            "channel": "الرياضية المغربية 3",
             "commentator": "غير محدد"
         }
     ]
