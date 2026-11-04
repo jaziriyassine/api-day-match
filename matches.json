@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-04 04:51:15",
+    "last_updated": "2026-11-04 12:45:07",
     "total_matches": 16,
     "matches": [
         {
@@ -126,7 +126,7 @@
             "home_team": "بوهانغ ستيلرز",
             "away_team": "جامبا أوساكا",
             "time": "10:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 3",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "بوريرام",
             "away_team": "كاشيما انتلرز",
             "time": "12:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "beIN SPORTS 3",
             "commentator": "غير محدد"
         },
