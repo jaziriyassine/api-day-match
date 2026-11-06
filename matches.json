@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-06 10:20:17",
+    "last_updated": "2026-11-06 17:37:13",
     "total_matches": 15,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "سموحة",
             "away_team": "المنيا",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "نادي الشرقية إنبي",
             "away_team": "بروكسي",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "غازي عنتاب بي.بي.كي",
             "away_team": "قاسم باشا",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "العربي",
             "away_team": "الأهلي القطري",
             "time": "14:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "الكأس 5",
             "commentator": "غير محدد"
         },
@@ -108,7 +108,7 @@
             "home_team": "الوكرة",
             "away_team": "الشحانية",
             "time": "16:30",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "الكأس 6",
             "commentator": "غير محدد"
         },
@@ -116,8 +116,8 @@
             "league": "الدوري المغربي",
             "home_team": "حسنية أكادير",
             "away_team": "نهضة بركان",
-            "time": "18:00",
-            "status": "لم تبدأ",
+            "time": "17:00",
+            "status": "الشوط الأول",
             "channel": "الرياضية المغربية 3",
             "commentator": "غير محدد"
         },
@@ -132,10 +132,10 @@
         },
         {
             "league": "كرة السلة",
-            "home_team": "الأهلي",
-            "away_team": "الزمالك",
+            "home_team": "الزمالك",
+            "away_team": "الأهلي",
             "time": "16:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "ON Sport PLUS",
             "commentator": "غير محدد"
         }
