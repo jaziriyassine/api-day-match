@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-08 11:25:47",
+    "last_updated": "2026-11-08 17:10:52",
     "total_matches": 47,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "ماميلودي صنداونز",
             "away_team": "اتحاد العاصمة",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 2",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "م. السويس بتروجت",
             "away_team": "نادي دلفي الرياضي",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "مودرن سبورت",
             "away_team": "القناة",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "سندرلاند",
             "away_team": "تشيلسي",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 3",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "كريستال بالاس",
             "away_team": "ليفربول",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 1",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "برايتون",
             "away_team": "برينتفورد",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 4",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "إيبسويتش تاون",
             "away_team": "بورنموث",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "بى ان سبورت اكسترا 1",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "مانشستر يونايتد",
             "away_team": "أستون فيلا",
             "time": "16:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "beIN SPORTS 1",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "إلتشي",
             "away_team": "ريال بيتيس",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 8",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "ريال سوسيداد",
             "away_team": "رايو فاييكانو",
             "time": "15:15",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "بى ان سبورت اكسترا 6",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "ريزه سبور",
             "away_team": "إيرزوروم سبور",
             "time": "10:30",
-            "status": "استراحة",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "كوروم",
             "away_team": "فنربخشة",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 5",
             "commentator": "غير محدد"
         },
@@ -153,7 +153,7 @@
             "home_team": "ألانيا سبور",
             "away_team": "طرابزون سبور",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "beIN SPORTS 5",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "رين",
             "away_team": "ليل",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 6",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "بريست",
             "away_team": "ليون",
             "time": "16:15",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "beIN SPORTS 2",
             "commentator": "غير محدد"
         },
@@ -189,7 +189,7 @@
             "home_team": "أنجيه",
             "away_team": "نيس",
             "time": "16:15",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "beIN SPORTS 4",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "لو مان",
             "away_team": "موناكو",
             "time": "16:15",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "beIN SPORTS 3",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "لوهافر",
             "away_team": "لوريان",
             "time": "16:15",
-            "status": "لم تبدأ",
+            "status": "استراحة",
             "channel": "بى ان سبورت اكسترا 5",
             "commentator": "غير محدد"
         },
@@ -225,7 +225,7 @@
             "home_team": "نابولي",
             "away_team": "لاتسيو",
             "time": "11:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -234,7 +234,7 @@
             "home_team": "جنوى",
             "away_team": "ميلان",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -243,7 +243,7 @@
             "home_team": "مونزا",
             "away_team": "أتالانتا",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -252,7 +252,7 @@
             "home_team": "إنتر ميلان",
             "away_team": "كومو",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "Starz Play App",
             "commentator": "غير محدد"
         },
@@ -270,7 +270,7 @@
             "home_team": "كولن",
             "away_team": "باير ليفركوزن",
             "time": "14:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "‎MBC Action",
             "commentator": "غير محدد"
         },
@@ -279,7 +279,7 @@
             "home_team": "فرايبورج",
             "away_team": "يونيون برلين",
             "time": "16:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "‎MBC Action",
             "commentator": "غير محدد"
         },
@@ -294,19 +294,19 @@
         },
         {
             "league": "الدوري البرتغالي",
-            "home_team": "سانتا كلارا",
-            "away_team": "جل فيسنتي",
+            "home_team": "إستوريل برايا",
+            "away_team": "ماريتيمو",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
         {
             "league": "الدوري البرتغالي",
-            "home_team": "إستوريل برايا",
-            "away_team": "ماريتيمو",
+            "home_team": "سانتا كلارا",
+            "away_team": "جل فيسنتي",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -342,7 +342,7 @@
             "home_team": "الجــزيرة",
             "away_team": "الوصل",
             "time": "12:55",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "أبوظبي الرياضية - HD 2",
             "commentator": "غير محدد"
         },
@@ -351,7 +351,7 @@
             "home_team": "النصر الإماراتي",
             "away_team": "يونايتد اف سي",
             "time": "12:55",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
@@ -360,7 +360,7 @@
             "home_team": "الوحـــدة",
             "away_team": "العين",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
@@ -369,7 +369,7 @@
             "home_team": "عجمان",
             "away_team": "بني ياس",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "أبوظبي الرياضية - HD 2",
             "commentator": "غير محدد"
         },
@@ -378,7 +378,7 @@
             "home_team": "نادي لوسيل",
             "away_team": "نادي قطر",
             "time": "14:15",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -387,7 +387,7 @@
             "home_team": "السد القطري",
             "away_team": "الريان",
             "time": "16:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -396,7 +396,7 @@
             "home_team": "نهضة الزمامرة",
             "away_team": "وداد تمارة",
             "time": "16:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -423,7 +423,7 @@
             "home_team": "النجم الرياضي بالمتلوي",
             "away_team": "الترجي الجرجيسي",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
