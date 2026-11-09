@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-09 08:22:26",
+    "last_updated": "2026-11-09 18:59:16",
     "total_matches": 2,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "وادي دجلة",
             "away_team": "كهرباء الإسماعيلية",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "زد",
             "away_team": "سمنود الرياضي",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport MAX",
             "commentator": "غير محدد"
         }
