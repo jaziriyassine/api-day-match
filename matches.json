@@ -1,25 +1,16 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-09 18:59:16",
-    "total_matches": 2,
+    "last_updated": "2026-11-10 01:57:17",
+    "total_matches": 1,
     "matches": [
         {
             "league": "كأس مصر",
-            "home_team": "وادي دجلة",
-            "away_team": "كهرباء الإسماعيلية",
-            "time": "12:30",
-            "status": "انتهت",
-            "channel": "ON Sport",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "كأس مصر",
-            "home_team": "زد",
-            "away_team": "سمنود الرياضي",
+            "home_team": "المقاولون العرب",
+            "away_team": "المصرية للاتصالات",
             "time": "15:00",
-            "status": "انتهت",
-            "channel": "ON Sport MAX",
+            "status": "لم تبدأ",
+            "channel": "ON Sport",
             "commentator": "غير محدد"
         }
     ]
