@@ -1,17 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-10 17:12:02",
-    "total_matches": 1,
-    "matches": [
-        {
-            "league": "كأس مصر",
-            "home_team": "المقاولون العرب",
-            "away_team": "المصرية للاتصالات",
-            "time": "15:00",
-            "status": "انتهت",
-            "channel": "ON Sport",
-            "commentator": "غير محدد"
-        }
-    ]
+    "last_updated": "2026-11-10 22:27:38",
+    "total_matches": 0,
+    "matches": []
 }
