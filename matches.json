@@ -1,25 +1,25 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-12 06:57:07",
-    "total_matches": 22,
+    "last_updated": "2026-11-12 15:49:24",
+    "total_matches": 23,
     "matches": [
         {
             "league": "تصفيات أمم أفريقيا",
             "home_team": "غانا",
             "away_team": "الصومال",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "beIN SPORTS 2",
             "commentator": "غير محدد"
         },
         {
             "league": "تصفيات أمم أفريقيا",
-            "home_team": "غينيا",
-            "away_team": "إريتريا",
+            "home_team": "غينيا الاستوائية",
+            "away_team": "زيمبابوي",
             "time": "16:00",
             "status": "لم تبدأ",
-            "channel": "بى ان سبورت اكسترا 1",
+            "channel": "beIN SPORTS 5",
             "commentator": "غير محدد"
         },
         {
@@ -38,6 +38,15 @@
             "time": "16:00",
             "status": "لم تبدأ",
             "channel": "beIN SPORTS 3",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "غينيا",
+            "away_team": "إريتريا",
+            "time": "17:00",
+            "status": "لم تبدأ",
+            "channel": "بى ان سبورت اكسترا 2",
             "commentator": "غير محدد"
         },
         {
@@ -153,7 +162,7 @@
             "home_team": "الانتاج الحربي",
             "away_team": "بلدية المحلة",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -162,7 +171,7 @@
             "home_team": "ديروط",
             "away_team": "بروكسي",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -171,7 +180,7 @@
             "home_team": "مسار",
             "away_team": "الترسانة",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -180,7 +189,7 @@
             "home_team": "نادى دلتا يونايتد",
             "away_team": "السكة الحديد",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -189,7 +198,7 @@
             "home_team": "النصر",
             "away_team": "فاركو",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -198,7 +207,7 @@
             "home_team": "مصر - شباب",
             "away_team": "تنزانيا - شباب",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
