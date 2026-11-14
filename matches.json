@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-14 16:49:37",
+    "last_updated": "2026-11-14 21:03:54",
     "total_matches": 14,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "أوغندا",
             "away_team": "بوتسوانا",
             "time": "16:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "بى ان سبورت اكسترا 1",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "أنجـــــولا",
             "away_team": "جنوب السودان",
             "time": "19:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "beIN SPORTS 7",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "الجزائر",
             "away_team": "توجـــو",
             "time": "19:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 1",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "جورجيا",
             "away_team": "المجر",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 4",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "النرويج",
             "away_team": "ويلز",
             "time": "17:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "beIN SPORTS 2",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "البرتغال",
             "away_team": "الدنمارك",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "beIN SPORTS 2",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "النمسا",
             "away_team": "أيرلندا",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "beIN SPORTS 4",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "إيرلندا الشمالية",
             "away_team": "أوكرانيا",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "beIN SPORTS 6",
             "commentator": "غير محدد"
         },
@@ -90,7 +90,7 @@
             "home_team": "رومانيا",
             "away_team": "بولندا",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "beIN SPORTS 5",
             "commentator": "غير محدد"
         },
@@ -99,7 +99,7 @@
             "home_team": "السويد",
             "away_team": "البوسنة والهرسك",
             "time": "19:45",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "beIN SPORTS 3",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "فلسطين",
             "away_team": "إيران",
             "time": "15:00",
-            "status": "الشوط الثاني",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
