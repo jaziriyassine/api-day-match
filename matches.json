@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-14 10:47:32",
+    "last_updated": "2026-11-14 16:49:37",
     "total_matches": 14,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "أوغندا",
             "away_team": "بوتسوانا",
             "time": "16:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الأول",
             "channel": "بى ان سبورت اكسترا 1",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "كوسوفو",
             "away_team": "الكيان الصهيوني",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "اليابان",
             "away_team": "البرازيل",
             "time": "10:15",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "فلسطين",
             "away_team": "إيران",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
