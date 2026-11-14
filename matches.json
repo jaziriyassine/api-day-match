@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-13 23:25:46",
+    "last_updated": "2026-11-14 03:26:57",
     "total_matches": 14,
     "matches": [
         {
@@ -108,7 +108,7 @@
             "home_team": "الأرجنتين",
             "away_team": "أوروجواي",
             "time": "23:00",
-            "status": "الشوط الأول",
+            "status": "انتهت",
             "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
