@@ -1,6 +1,89 @@
 {
-    "status": "error",
-    "message": "403 Client Error: Forbidden for url: https://www.yallakora.com/match-center",
-    "total_matches": 0,
-    "matches": []
+    "status": "success",
+    "timezone": "Tunisia (GMT+1)",
+    "last_updated": "2026-11-15 20:46:15",
+    "total_matches": 9,
+    "matches": [
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "قبرص",
+            "away_team": "الجبل الأسود",
+            "time": "14:00",
+            "status": "انتهت",
+            "channel": "beIN SPORTS 2",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "لاتفيا",
+            "away_team": "أرمينيا",
+            "time": "14:00",
+            "status": "انتهت",
+            "channel": "beIN SPORTS 3",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "بيلاروسيا",
+            "away_team": "ألبانيا",
+            "time": "17:00",
+            "status": "انتهت",
+            "channel": "beIN SPORTS 2",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "فنلندا",
+            "away_team": "سان مارينو",
+            "time": "17:00",
+            "status": "انتهت",
+            "channel": "beIN SPORTS 3",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "بلجيكا",
+            "away_team": "ايطاليا",
+            "time": "19:45",
+            "status": "استراحة",
+            "channel": "beIN SPORTS 3",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "كرواتيا",
+            "away_team": "التشيك",
+            "time": "19:45",
+            "status": "استراحة",
+            "channel": "beIN SPORTS 4",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "فرنسا",
+            "away_team": "تركيا",
+            "time": "19:45",
+            "status": "استراحة",
+            "channel": "beIN SPORTS 2",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "إسبانيا",
+            "away_team": "إنجلترا",
+            "time": "19:45",
+            "status": "استراحة",
+            "channel": "beIN SPORTS 1",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "المصرية للاتصالات",
+            "away_team": "كهرباء الإسماعيلية",
+            "time": "12:30",
+            "status": "انتهت",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        }
+    ]
 }
