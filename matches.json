@@ -1,88 +1,151 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-15 20:46:15",
-    "total_matches": 9,
+    "last_updated": "2026-11-16 00:41:55",
+    "total_matches": 16,
     "matches": [
         {
-            "league": "دوري الأمم الأوروبية",
-            "home_team": "قبرص",
-            "away_team": "الجبل الأسود",
-            "time": "14:00",
-            "status": "انتهت",
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "زيمبابوي",
+            "away_team": "غينيا الاستوائية",
+            "time": "13:00",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 3",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "ناميبيا",
+            "away_team": "الكاميرون",
+            "time": "13:00",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 2",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "السودان",
+            "away_team": "السنغال",
+            "time": "13:00",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 1",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "الصومال",
+            "away_team": "غانا",
+            "time": "15:00",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 4",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "أفريقيا الوسطى",
+            "away_team": "بنين",
+            "time": "16:00",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 3",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "تصفيات أمم أفريقيا",
+            "home_team": "إريتريا",
+            "away_team": "غينيا",
+            "time": "16:00",
+            "status": "لم تبدأ",
             "channel": "beIN SPORTS 2",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "لاتفيا",
-            "away_team": "أرمينيا",
-            "time": "14:00",
-            "status": "انتهت",
-            "channel": "beIN SPORTS 3",
+            "home_team": "جزر فاروه",
+            "away_team": "مولدوفا",
+            "time": "15:00",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 9",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "بيلاروسيا",
-            "away_team": "ألبانيا",
+            "home_team": "كازاخستان",
+            "away_team": "سلوفاكيا",
+            "time": "15:00",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 5",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "إستونيا",
+            "away_team": "بلغاريا",
             "time": "17:00",
-            "status": "انتهت",
-            "channel": "beIN SPORTS 2",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 8",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "فنلندا",
-            "away_team": "سان مارينو",
+            "home_team": "أيسلندا",
+            "away_team": "لوكسمبرج",
             "time": "17:00",
-            "status": "انتهت",
-            "channel": "beIN SPORTS 3",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 6",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "بلجيكا",
-            "away_team": "ايطاليا",
-            "time": "19:45",
-            "status": "استراحة",
-            "channel": "beIN SPORTS 3",
+            "home_team": "ليتوانيا",
+            "away_team": "ليشتنشتاين",
+            "time": "17:00",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 7",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "كرواتيا",
-            "away_team": "التشيك",
+            "home_team": "جبل طارق",
+            "away_team": "مالطة",
             "time": "19:45",
-            "status": "استراحة",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 5",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "ألمانيا",
+            "away_team": "هولندا",
+            "time": "19:45",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 1",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري الأمم الأوروبية",
+            "home_team": "اليونان",
+            "away_team": "صربيا",
+            "time": "19:45",
+            "status": "لم تبدأ",
             "channel": "beIN SPORTS 4",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "فرنسا",
-            "away_team": "تركيا",
+            "home_team": "مقدونيا",
+            "away_team": "سلوفينيا",
             "time": "19:45",
-            "status": "استراحة",
-            "channel": "beIN SPORTS 2",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 3",
             "commentator": "غير محدد"
         },
         {
             "league": "دوري الأمم الأوروبية",
-            "home_team": "إسبانيا",
-            "away_team": "إنجلترا",
+            "home_team": "سويسرا",
+            "away_team": "إسكتلندا",
             "time": "19:45",
-            "status": "استراحة",
-            "channel": "beIN SPORTS 1",
-            "commentator": "غير محدد"
-        },
-        {
-            "league": "دوري القسم الثاني-أ",
-            "home_team": "المصرية للاتصالات",
-            "away_team": "كهرباء الإسماعيلية",
-            "time": "12:30",
-            "status": "انتهت",
-            "channel": "غير معلنة",
+            "status": "لم تبدأ",
+            "channel": "beIN SPORTS 2",
             "commentator": "غير محدد"
         }
     ]
