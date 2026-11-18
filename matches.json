@@ -1,6 +1,44 @@
 {
-    "status": "error",
-    "message": "403 Client Error: Forbidden for url: https://www.yallakora.com/match-center",
-    "total_matches": 0,
-    "matches": []
+    "status": "success",
+    "timezone": "Tunisia (GMT+1)",
+    "last_updated": "2026-11-18 01:45:36",
+    "total_matches": 4,
+    "matches": [
+        {
+            "league": "كأس مصر",
+            "home_team": "الجونة",
+            "away_team": "الاتحاد السكندري",
+            "time": "15:00",
+            "status": "لم تبدأ",
+            "channel": "ON Sport",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كرة يد - السوبر المصري",
+            "home_team": "الأهلي",
+            "away_team": "سموحة",
+            "time": "14:00",
+            "status": "لم تبدأ",
+            "channel": "ON Sport MAX",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كرة يد - السوبر المصري",
+            "home_team": "الزمالك",
+            "away_team": "النادي الأوليمبى",
+            "time": "16:00",
+            "status": "لم تبدأ",
+            "channel": "ON Sport MAX",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "مباريات ودية - منتخبات",
+            "home_team": "الأرجنتين",
+            "away_team": "كوستاريكا",
+            "time": "23:00",
+            "status": "انتهت",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        }
+    ]
 }
