@@ -1,6 +1,188 @@
 {
-    "status": "error",
-    "message": "403 Client Error: Forbidden for url: https://www.yallakora.com/match-center",
-    "total_matches": 0,
-    "matches": []
+    "status": "success",
+    "timezone": "Tunisia (GMT+1)",
+    "last_updated": "2026-11-19 08:26:53",
+    "total_matches": 20,
+    "matches": [
+        {
+            "league": "كأس العالم تحت 17 عاما",
+            "home_team": "كاليدونيا الجديدة",
+            "away_team": "الإكوادور",
+            "time": "13:00",
+            "status": "لم تبدأ",
+            "channel": "الكأس 8",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس العالم تحت 17 عاما",
+            "home_team": "فرنسا",
+            "away_team": "هايتي",
+            "time": "13:00",
+            "status": "لم تبدأ",
+            "channel": "الكأس 1",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس العالم تحت 17 عاما",
+            "home_team": "كوريا الجنوبية",
+            "away_team": "أوغندا",
+            "time": "13:30",
+            "status": "لم تبدأ",
+            "channel": "الكأس 7",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس العالم تحت 17 عاما",
+            "home_team": "السعودية",
+            "away_team": "أوروجواي",
+            "time": "14:00",
+            "status": "لم تبدأ",
+            "channel": "الكأس 3",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس العالم تحت 17 عاما",
+            "home_team": "موزمبيق",
+            "away_team": "الدنمارك",
+            "time": "15:00",
+            "status": "لم تبدأ",
+            "channel": "الكأس 9",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس العالم تحت 17 عاما",
+            "home_team": "قطر",
+            "away_team": "بنما",
+            "time": "15:30",
+            "status": "لم تبدأ",
+            "channel": "الكأس 1",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس العالم تحت 17 عاما",
+            "home_team": "مصر",
+            "away_team": "اليونان",
+            "time": "16:00",
+            "status": "لم تبدأ",
+            "channel": "الكأس 7",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس العالم تحت 17 عاما",
+            "home_team": "الأرجنتين",
+            "away_team": "استراليا",
+            "time": "16:00",
+            "status": "لم تبدأ",
+            "channel": "الكأس 8",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس مصر",
+            "home_team": "المصري",
+            "away_team": "بترول أسيوط",
+            "time": "15:00",
+            "status": "لم تبدأ",
+            "channel": "ON Sport",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس مصر",
+            "home_team": "المقاولون العرب",
+            "away_team": "القناة",
+            "time": "15:00",
+            "status": "لم تبدأ",
+            "channel": "ON Sport MAX",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كأس مصر",
+            "home_team": "زد",
+            "away_team": "سموحة",
+            "time": "18:00",
+            "status": "لم تبدأ",
+            "channel": "ON Sport MAX",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "كرة يد - السوبر المصري",
+            "home_team": "الأهلي",
+            "away_team": "الزمالك",
+            "time": "16:30",
+            "status": "لم تبدأ",
+            "channel": "ON Sport PLUS",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "لافيينا أف سي",
+            "away_team": "السكة الحديد",
+            "time": "12:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "الداخلية",
+            "away_team": "الإسماعيلي",
+            "time": "12:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "بلدية المحلة",
+            "away_team": "حرس الحدود",
+            "time": "12:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "فاركو",
+            "away_team": "الانتاج الحربي",
+            "time": "12:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري القسم الثاني-أ",
+            "home_team": "الترسانة",
+            "away_team": "المصرية للاتصالات",
+            "time": "12:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري الإماراتي",
+            "home_team": "الوصل",
+            "away_team": "حتا",
+            "time": "12:45",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "الدوري الإماراتي",
+            "home_team": "العين",
+            "away_team": "الظفرة",
+            "time": "15:25",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        },
+        {
+            "league": "دوري نجوم قطر",
+            "home_team": "الأهلي القطري",
+            "away_team": "الشمال",
+            "time": "15:30",
+            "status": "لم تبدأ",
+            "channel": "غير معلنة",
+            "commentator": "غير محدد"
+        }
+    ]
 }
