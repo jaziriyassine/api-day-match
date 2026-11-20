@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-20 07:36:46",
+    "last_updated": "2026-11-20 16:39:48",
     "total_matches": 25,
     "matches": [
         {
@@ -9,7 +9,7 @@
             "home_team": "كوبا",
             "away_team": "طاجيكستان",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 8",
             "commentator": "غير محدد"
         },
@@ -18,7 +18,7 @@
             "home_team": "بلجيكا",
             "away_team": "فيتنام",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 1",
             "commentator": "غير محدد"
         },
@@ -27,7 +27,7 @@
             "home_team": "مالي",
             "away_team": "نيوزيلندا",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 3",
             "commentator": "غير محدد"
         },
@@ -36,7 +36,7 @@
             "home_team": "إسبانيا",
             "away_team": "الصين",
             "time": "14:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 9",
             "commentator": "غير محدد"
         },
@@ -45,7 +45,7 @@
             "home_team": "إيطاليا",
             "away_team": "جامايكا",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "الكأس 10",
             "commentator": "غير محدد"
         },
@@ -54,7 +54,7 @@
             "home_team": "السنغال",
             "away_team": "كرواتيا",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "الكأس 8",
             "commentator": "غير محدد"
         },
@@ -63,7 +63,7 @@
             "home_team": "كوت ديفوار",
             "away_team": "أوزبكستان",
             "time": "16:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "الكأس 3",
             "commentator": "غير محدد"
         },
@@ -72,7 +72,7 @@
             "home_team": "فيجي",
             "away_team": "المغرب",
             "time": "16:00",
-            "status": "لم تبدأ",
+            "status": "مباشر",
             "channel": "الكأس 1",
             "commentator": "غير محدد"
         },
@@ -81,7 +81,7 @@
             "home_team": "كهرباء الإسماعيلية",
             "away_team": "سيراميكا كليوباترا",
             "time": "15:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -117,7 +117,7 @@
             "home_team": "بروكسي",
             "away_team": "طنطا‏",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -126,7 +126,7 @@
             "home_team": "المنصورة",
             "away_team": "ديروط",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -135,7 +135,7 @@
             "home_team": "تيم اف سي",
             "away_team": "مسار",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "ON Sport",
             "commentator": "غير محدد"
         },
@@ -144,7 +144,7 @@
             "home_team": "مالية كفر الزيات",
             "away_team": "نادى دلتا يونايتد",
             "time": "12:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -162,7 +162,7 @@
             "home_team": "اتحاد كلباء",
             "away_team": "الشــارقة",
             "time": "12:45",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
@@ -171,7 +171,7 @@
             "home_team": "شباب الأهلي",
             "away_team": "عجمان",
             "time": "15:25",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "أبوظبي الرياضية - HD1",
             "commentator": "غير محدد"
         },
@@ -180,7 +180,7 @@
             "home_team": "السد القطري",
             "away_team": "نادي لوسيل",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 5",
             "commentator": "غير محدد"
         },
@@ -189,7 +189,7 @@
             "home_team": "الدحيل",
             "away_team": "نادي قطر",
             "time": "13:00",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "الكأس 6",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "الغرافة",
             "away_team": "العربي",
             "time": "15:30",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "الكأس 5",
             "commentator": "غير محدد"
         },
@@ -207,7 +207,7 @@
             "home_team": "حمام الأنف",
             "away_team": "النجم الرياضي بالمتلوي",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -216,7 +216,7 @@
             "home_team": "الأولمبي الباجي",
             "away_team": "مستقبل المرسى",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -225,7 +225,7 @@
             "home_team": "أمل حمام سوسة",
             "away_team": "تقدم ساقية الداير",
             "time": "13:30",
-            "status": "لم تبدأ",
+            "status": "انتهت",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         }
