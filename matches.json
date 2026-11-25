@@ -1,7 +1,7 @@
 {
     "status": "success",
     "timezone": "Tunisia (GMT+1)",
-    "last_updated": "2026-11-25 02:41:34",
+    "last_updated": "2026-11-25 12:03:54",
     "total_matches": 23,
     "matches": [
         {
@@ -189,7 +189,7 @@
             "home_team": "جامبا أوساكا",
             "away_team": "تاي بورت",
             "time": "10:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "غير معلنة",
             "commentator": "غير محدد"
         },
@@ -198,7 +198,7 @@
             "home_team": "كاشيما انتلرز",
             "away_team": "تشونبك هيونداي",
             "time": "10:00",
-            "status": "لم تبدأ",
+            "status": "الشوط الثاني",
             "channel": "beIN SPORTS 3",
             "commentator": "غير محدد"
         },
